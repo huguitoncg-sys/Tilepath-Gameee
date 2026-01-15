@@ -1,0 +1,4810 @@
+fileFormatVersion: 2
+guid: 6c15d021d55404142ab272d9976e09d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3652467388891990653
+    second: combiner bloom_0
+  - first:
+      213: 189344818292606214
+    second: combiner bloom_1
+  - first:
+      213: 4773348611244773940
+    second: combiner bloom_2
+  - first:
+      213: -839908914390949295
+    second: combiner bloom_3
+  - first:
+      213: 5736437392198282236
+    second: combiner bloom_4
+  - first:
+      213: 6992842544031665227
+    second: combiner bloom_5
+  - first:
+      213: 7856777080654417219
+    second: combiner bloom_6
+  - first:
+      213: 3510971458932191613
+    second: combiner bloom_7
+  - first:
+      213: 3471589107593093340
+    second: combiner bloom_8
+  - first:
+      213: 8657260933780461946
+    second: combiner bloom_9
+  - first:
+      213: 2616547831633979594
+    second: combiner bloom_10
+  - first:
+      213: -5765882891052345550
+    second: combiner bloom_11
+  - first:
+      213: 161080531971066270
+    second: combiner bloom_12
+  - first:
+      213: 8573295271981654667
+    second: combiner bloom_13
+  - first:
+      213: 5703649015398360936
+    second: combiner bloom_14
+  - first:
+      213: 2204230027035997993
+    second: combiner bloom_15
+  - first:
+      213: 1083950143806613034
+    second: combiner bloom_16
+  - first:
+      213: -2518558709636333804
+    second: combiner bloom_17
+  - first:
+      213: -201588887459250190
+    second: combiner bloom_18
+  - first:
+      213: 6236989368323614376
+    second: combiner bloom_19
+  - first:
+      213: -2375860670031536267
+    second: combiner bloom_20
+  - first:
+      213: -8019197824496166554
+    second: combiner bloom_21
+  - first:
+      213: -3155509460062277188
+    second: combiner bloom_22
+  - first:
+      213: -4380175067558378228
+    second: combiner bloom_23
+  - first:
+      213: 5354449282088468171
+    second: combiner bloom_24
+  - first:
+      213: 3387859916534068840
+    second: combiner bloom_25
+  - first:
+      213: -5554674720916040650
+    second: combiner bloom_26
+  - first:
+      213: -1796187723748235448
+    second: combiner bloom_27
+  - first:
+      213: 3219491585027206055
+    second: combiner bloom_28
+  - first:
+      213: -5600904458648420461
+    second: combiner bloom_29
+  - first:
+      213: 3130660620257523571
+    second: combiner bloom_30
+  - first:
+      213: -6134055776838118810
+    second: combiner bloom_31
+  - first:
+      213: 7845237294678570708
+    second: combiner bloom_32
+  - first:
+      213: -6497855045594710450
+    second: combiner bloom_33
+  - first:
+      213: -3636923267961909833
+    second: combiner bloom_34
+  - first:
+      213: -7158549960068364253
+    second: combiner bloom_35
+  - first:
+      213: 7132588951247688190
+    second: combiner bloom_36
+  - first:
+      213: -8485764523887432962
+    second: combiner bloom_37
+  - first:
+      213: -4436544751023049794
+    second: combiner bloom_38
+  - first:
+      213: 4526445239867558635
+    second: combiner bloom_39
+  - first:
+      213: 7703922617091935830
+    second: combiner bloom_40
+  - first:
+      213: 112638158281250647
+    second: combiner bloom_41
+  - first:
+      213: -1030623404287314010
+    second: combiner bloom_42
+  - first:
+      213: 9223252097089148957
+    second: combiner bloom_43
+  - first:
+      213: -4778060219343787382
+    second: combiner bloom_44
+  - first:
+      213: 9050994667495250222
+    second: combiner bloom_45
+  - first:
+      213: -5822631854758360911
+    second: combiner bloom_46
+  - first:
+      213: 7787988275082529534
+    second: combiner bloom_47
+  - first:
+      213: -2999219800116529725
+    second: combiner bloom_48
+  - first:
+      213: 3664680096404412641
+    second: combiner bloom_49
+  - first:
+      213: 8083881451092616410
+    second: combiner bloom_50
+  - first:
+      213: 2720595967122084266
+    second: combiner bloom_51
+  - first:
+      213: -7780353384750431776
+    second: combiner bloom_52
+  - first:
+      213: -5225545498751428956
+    second: combiner bloom_53
+  - first:
+      213: -517422043710548918
+    second: combiner bloom_54
+  - first:
+      213: -6347983534166224173
+    second: combiner bloom_55
+  - first:
+      213: 6994843324677500432
+    second: combiner bloom_56
+  - first:
+      213: 592937144730467137
+    second: combiner bloom_57
+  - first:
+      213: -3790234343561140200
+    second: combiner bloom_58
+  - first:
+      213: 2849999632674520003
+    second: combiner bloom_59
+  - first:
+      213: -3100614999866816451
+    second: combiner bloom_60
+  - first:
+      213: -6906134081212663015
+    second: combiner bloom_61
+  - first:
+      213: -7819324040792087408
+    second: combiner bloom_62
+  - first:
+      213: 5322224821041112602
+    second: combiner bloom_63
+  - first:
+      213: 6067433469859858318
+    second: combiner bloom_64
+  - first:
+      213: -3312296329515045576
+    second: combiner bloom_65
+  - first:
+      213: 628146866903359279
+    second: combiner bloom_66
+  - first:
+      213: -4545970061235159117
+    second: combiner bloom_67
+  - first:
+      213: -4529381585879831604
+    second: combiner bloom_68
+  - first:
+      213: -2402190055471272922
+    second: combiner bloom_69
+  - first:
+      213: -6191078252960135260
+    second: combiner bloom_70
+  - first:
+      213: 4785164398382962175
+    second: combiner bloom_71
+  - first:
+      213: 1735372430186605296
+    second: combiner bloom_72
+  - first:
+      213: 4758293744736188991
+    second: combiner bloom_73
+  - first:
+      213: 3939341912715397998
+    second: combiner bloom_74
+  - first:
+      213: -2299599371208646739
+    second: combiner bloom_75
+  - first:
+      213: 7654357856832124331
+    second: combiner bloom_76
+  - first:
+      213: 3141129963496903662
+    second: combiner bloom_77
+  - first:
+      213: -6508004834970344630
+    second: combiner bloom_78
+  - first:
+      213: 7721741321155767978
+    second: combiner bloom_79
+  - first:
+      213: 388123267444940821
+    second: combiner bloom_80
+  - first:
+      213: -1199384571087454935
+    second: combiner bloom_81
+  - first:
+      213: -4876042017846381234
+    second: combiner bloom_82
+  - first:
+      213: 8032342924973188569
+    second: combiner bloom_83
+  - first:
+      213: 3406625383578442739
+    second: combiner bloom_84
+  - first:
+      213: 2266902777024063739
+    second: combiner bloom_85
+  - first:
+      213: 25165875208999383
+    second: combiner bloom_86
+  - first:
+      213: -1497606734128023729
+    second: combiner bloom_87
+  - first:
+      213: -740299247760819942
+    second: combiner bloom_88
+  - first:
+      213: 4800245699956676633
+    second: combiner bloom_89
+  - first:
+      213: 5586883447842895311
+    second: combiner bloom_90
+  - first:
+      213: -1373955569295244984
+    second: combiner bloom_91
+  - first:
+      213: 5095659734327228453
+    second: combiner bloom_92
+  - first:
+      213: 2429533846977135121
+    second: combiner bloom_93
+  - first:
+      213: -1293644639547034257
+    second: combiner bloom_94
+  - first:
+      213: -3641070105763653138
+    second: combiner bloom_95
+  - first:
+      213: -7964657659189904059
+    second: combiner bloom_96
+  - first:
+      213: 7505887606829619432
+    second: combiner bloom_97
+  - first:
+      213: 6430768189954869704
+    second: combiner bloom_98
+  - first:
+      213: 8119788089877592208
+    second: combiner bloom_99
+  - first:
+      213: 5466844603394425879
+    second: combiner bloom_100
+  - first:
+      213: 3411869137754699376
+    second: combiner bloom_101
+  - first:
+      213: 3245989253080075128
+    second: combiner bloom_102
+  - first:
+      213: -3983451576163581120
+    second: combiner bloom_103
+  - first:
+      213: -6766897917870263779
+    second: combiner bloom_104
+  - first:
+      213: -107444055164476895
+    second: combiner bloom_105
+  - first:
+      213: -8452024759057106391
+    second: combiner bloom_106
+  - first:
+      213: -3754100537939498560
+    second: combiner bloom_107
+  - first:
+      213: 3386955447280065829
+    second: combiner bloom_108
+  - first:
+      213: -7668816142053315239
+    second: combiner bloom_109
+  - first:
+      213: 988244694467631526
+    second: combiner bloom_110
+  - first:
+      213: 6111447544057116359
+    second: combiner bloom_111
+  - first:
+      213: -4806146578828555992
+    second: combiner bloom_112
+  - first:
+      213: 3420387959148818348
+    second: combiner bloom_113
+  - first:
+      213: -3619262720573040208
+    second: combiner bloom_114
+  - first:
+      213: 1734047313536540963
+    second: combiner bloom_115
+  - first:
+      213: 5169788403821557441
+    second: combiner bloom_116
+  - first:
+      213: -6473420125045089910
+    second: combiner bloom_117
+  - first:
+      213: -8267807692796681741
+    second: combiner bloom_118
+  - first:
+      213: 8598500492485773444
+    second: combiner bloom_119
+  - first:
+      213: -2915730234194953019
+    second: combiner bloom_120
+  - first:
+      213: -7862273681056889229
+    second: combiner bloom_121
+  - first:
+      213: 5181142407080217826
+    second: combiner bloom_122
+  - first:
+      213: 7071864586211985505
+    second: combiner bloom_123
+  - first:
+      213: 32220263422567013
+    second: combiner bloom_124
+  - first:
+      213: 679724241142575937
+    second: combiner bloom_125
+  - first:
+      213: 8623858638575655776
+    second: combiner bloom_126
+  - first:
+      213: -3517220786986687478
+    second: combiner bloom_127
+  - first:
+      213: 2850524941274240711
+    second: combiner bloom_128
+  - first:
+      213: 7623872366528577689
+    second: combiner bloom_129
+  - first:
+      213: -669161713627311505
+    second: combiner bloom_130
+  - first:
+      213: -4788416188238659935
+    second: combiner bloom_131
+  - first:
+      213: 1119550257411689618
+    second: combiner bloom_132
+  - first:
+      213: 184262453346621
+    second: combiner bloom_133
+  - first:
+      213: -5415230146771394138
+    second: combiner bloom_134
+  - first:
+      213: -8763914482609117349
+    second: combiner bloom_135
+  - first:
+      213: 2436403240532922462
+    second: combiner bloom_136
+  - first:
+      213: 3693273208077963031
+    second: combiner bloom_137
+  - first:
+      213: -6476827792697810889
+    second: combiner bloom_138
+  - first:
+      213: 8255696257692711881
+    second: combiner bloom_139
+  - first:
+      213: -1144498880441830225
+    second: combiner bloom_140
+  - first:
+      213: 6345577704901967478
+    second: combiner bloom_141
+  - first:
+      213: 6455011728611988203
+    second: combiner bloom_142
+  - first:
+      213: 1051318099598772198
+    second: combiner bloom_143
+  - first:
+      213: -690847535486729249
+    second: combiner bloom_144
+  - first:
+      213: -4911247140721184225
+    second: combiner bloom_145
+  - first:
+      213: -4649069388447787181
+    second: combiner bloom_146
+  - first:
+      213: 2854361701704827257
+    second: combiner bloom_147
+  - first:
+      213: 2596898179882080462
+    second: combiner bloom_148
+  - first:
+      213: 6709321549456936642
+    second: combiner bloom_149
+  - first:
+      213: -7059382044649791182
+    second: combiner bloom_150
+  - first:
+      213: 7440101182495179678
+    second: combiner bloom_151
+  - first:
+      213: 1966205346512337358
+    second: combiner bloom_152
+  - first:
+      213: 2435767936371503537
+    second: combiner bloom_153
+  - first:
+      213: 7828064464285667465
+    second: combiner bloom_154
+  - first:
+      213: -3640544730034164798
+    second: combiner bloom_155
+  - first:
+      213: -6946316796718157800
+    second: combiner bloom_156
+  - first:
+      213: -197775083906363296
+    second: combiner bloom_157
+  - first:
+      213: -1854109154571715016
+    second: combiner bloom_158
+  - first:
+      213: -4078154113424110973
+    second: combiner bloom_159
+  - first:
+      213: -2292348266106704998
+    second: combiner bloom_160
+  - first:
+      213: 6528072053843165652
+    second: combiner bloom_161
+  - first:
+      213: 7297264945400142101
+    second: combiner bloom_162
+  - first:
+      213: -3647835855046607799
+    second: combiner bloom_163
+  - first:
+      213: 6147192481293286415
+    second: combiner bloom_164
+  - first:
+      213: 3757462706395366154
+    second: combiner bloom_165
+  - first:
+      213: 7262361420174041632
+    second: combiner bloom_166
+  - first:
+      213: -9154867970543308483
+    second: combiner bloom_167
+  - first:
+      213: 6284897555504813870
+    second: combiner bloom_168
+  - first:
+      213: -7581480423927078068
+    second: combiner bloom_169
+  - first:
+      213: -4755993504436543585
+    second: combiner bloom_170
+  - first:
+      213: -1085349721344623500
+    second: combiner bloom_171
+  - first:
+      213: 701884299206658998
+    second: combiner bloom_172
+  - first:
+      213: -1217938244211908213
+    second: combiner bloom_173
+  - first:
+      213: 8141092262068745478
+    second: combiner bloom_174
+  - first:
+      213: -930288786477458427
+    second: combiner bloom_175
+  - first:
+      213: 1060938948105413623
+    second: combiner bloom_176
+  - first:
+      213: -5939535989724206759
+    second: combiner bloom_177
+  - first:
+      213: -7968228483255148342
+    second: combiner bloom_178
+  - first:
+      213: 163927390891922959
+    second: combiner bloom_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: combiner bloom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a0b941dbb20b230800000000000000
+      internalID: 3652467388891990653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605446aeb10b0a200800000000000000
+      internalID: 189344818292606214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 472
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432595a85475e3240800000000000000
+      internalID: 4773348611244773940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1522b0ada4b0854f0800000000000000
+      internalID: -839908914390949295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 472
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb2f3e4a6beb9f40800000000000000
+      internalID: 5736437392198282236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_5
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c0f3f7e319b0160800000000000000
+      internalID: 6992842544031665227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 472
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d46dbb021e80d60800000000000000
+      internalID: 7856777080654417219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d713032a0f979b030800000000000000
+      internalID: 3510971458932191613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 472
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0a33c66ef8d2030800000000000000
+      internalID: 3471589107593093340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_9
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d9dd73f4c42870800000000000000
+      internalID: 8657260933780461946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 472
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8ac5ac368df4420800000000000000
+      internalID: 2616547831633979594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237925e3f087bffa0800000000000000
+      internalID: -5765882891052345550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_12
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 472
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99cd50f3e54c3200800000000000000
+      internalID: 161080531971066270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82a00960a67af670800000000000000
+      internalID: 8573295271981654667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_14
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 472
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867635e6f8e672f40800000000000000
+      internalID: 5703649015398360936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927fab4f78ff69e10800000000000000
+      internalID: 2204230027035997993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_16
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 472
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26a3dba9e6fa0f00800000000000000
+      internalID: 1083950143806613034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ff82e82384c0dd0800000000000000
+      internalID: -2518558709636333804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff335499ffc33df0800000000000000
+      internalID: -201588887459250190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a621d619cc3e8650800000000000000
+      internalID: 6236989368323614376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_20
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fd2f6fe4f370fd0800000000000000
+      internalID: -2375860670031536267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669125fe01616b090800000000000000
+      internalID: -8019197824496166554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_22
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb17a9b5dd06534d0800000000000000
+      internalID: -3155509460062277188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c050924bbfd7633c0800000000000000
+      internalID: -4380175067558378228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_24
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce7ab2c043de4a40800000000000000
+      internalID: 5354449282088468171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 431
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8663cc9f4a8140f20800000000000000
+      internalID: 3387859916534068840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 431
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63415f075c4d9e2b0800000000000000
+      internalID: -5554674720916040650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 431
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847a11828c8a217e0800000000000000
+      internalID: -1796187723748235448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 431
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abe7eaf98eedac20800000000000000
+      internalID: 3219491585027206055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 445
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ffb59d1179542b0800000000000000
+      internalID: -5600904458648420461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 447
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f0c64f37527b20800000000000000
+      internalID: 3130660620257523571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 447
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662912545c47fdaa0800000000000000
+      internalID: -6134055776838118810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_32
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 447
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d676ffe0c1efdc60800000000000000
+      internalID: 7845237294678570708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 447
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ef85d534bf2d5a0800000000000000
+      internalID: -6497855045594710450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_34
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 449
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd07c99e8d078dc0800000000000000
+      internalID: -3636923267961909833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3280d3b2db8b7ac90800000000000000
+      internalID: -7158549960068364253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 394
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef19eff6cdb0cf260800000000000000
+      internalID: 7132588951247688190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_37
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 408
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efae31200228c3a80800000000000000
+      internalID: -8485764523887432962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 394
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3b5250e0a3e62c0800000000000000
+      internalID: -4436544751023049794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_39
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 408
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea4099a6f921de30800000000000000
+      internalID: 4526445239867558635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 394
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eccd89dc4d9ea60800000000000000
+      internalID: 7703922617091935830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_41
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 408
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7571284eecb209100800000000000000
+      internalID: 112638158281250647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_42
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 394
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7304a697d72b1f0800000000000000
+      internalID: -1030623404287314010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_43
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 408
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1810e85ae29fff70800000000000000
+      internalID: 9223252097089148957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_44
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 385
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aa696bb8be0bdb0800000000000000
+      internalID: -4778060219343787382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 368
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29520422b79b9d70800000000000000
+      internalID: 9050994667495250222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 368
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8014f7d2bd13fa0800000000000000
+      internalID: -5822631854758360911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 368
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa833bd21e741c60800000000000000
+      internalID: 7787988275082529534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_48
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 385
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c57cba7b71a066d0800000000000000
+      internalID: -2999219800116529725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_49
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 368
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e811a1a12f8bd230800000000000000
+      internalID: 3664680096404412641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_50
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 368
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4aeba7957bf2070800000000000000
+      internalID: 8083881451092616410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_51
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 368
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa11ca52e9f71c520800000000000000
+      internalID: 2720595967122084266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 345
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e141f291d1a60490800000000000000
+      internalID: -7780353384750431776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_53
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 368
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a697451e022b77b0800000000000000
+      internalID: -5225545498751428956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 344
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a441da5846fb1d8f0800000000000000
+      internalID: -517422043710548918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 344
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d25ef5db9e67e7a0800000000000000
+      internalID: -6347983534166224173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 344
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e2aea81fca21160800000000000000
+      internalID: 6994843324677500432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_57
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 344
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b3bcd01398a3800800000000000000
+      internalID: 592937144730467137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 345
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8186d8032f1666bc0800000000000000
+      internalID: -3790234343561140200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_59
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 345
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbfe83e09b3d8720800000000000000
+      internalID: 2849999632674520003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_60
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 345
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c0bbd51768f4d0800000000000000
+      internalID: -3100614999866816451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_61
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 368
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb916b4ab7820a0800000000000000
+      internalID: -6906134081212663015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_62
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 345
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0946ae4a63e2c7390800000000000000
+      internalID: -7819324040792087408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a162ce0c6475cd940800000000000000
+      internalID: 5322224821041112602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87005d189ad33450800000000000000
+      internalID: 6067433469859858318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_65
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dec60a90c5802d0800000000000000
+      internalID: -3312296329515045576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9c845f30a7b800800000000000000
+      internalID: 628146866903359279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_67
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf748c905879e0c0800000000000000
+      internalID: -4545970061235159117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_68
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbef6102776421c0800000000000000
+      internalID: -4529381585879831604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ca8a43fd4b9aed0800000000000000
+      internalID: -2402190055471272922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_70
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a74aa3712fd41aa0800000000000000
+      internalID: -6191078252960135260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_71
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 304
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5567ddaa1586240800000000000000
+      internalID: 4785164398382962175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 304
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa6746e708451810800000000000000
+      internalID: 1735372430186605296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_73
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 304
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab6f743fad80240800000000000000
+      internalID: 4758293744736188991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 319
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b853c199a5ba630800000000000000
+      internalID: 3939341912715397998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_75
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 304
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf95614e8e2610e0800000000000000
+      internalID: -2299599371208646739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_76
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 319
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5f2309aedb93a60800000000000000
+      internalID: 7654357856832124331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 317
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee391933f09879b20800000000000000
+      internalID: 3141129963496903662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_78
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 320
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43611f551ceea5a0800000000000000
+      internalID: -6508004834970344630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_79
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 319
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaee1fee1d2292b60800000000000000
+      internalID: 7721741321155767978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_80
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 318
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510ae1d2e04e26500800000000000000
+      internalID: 388123267444940821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d7f33561eea5fe0800000000000000
+      internalID: -1199384571087454935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 267
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4533608e91d45cb0800000000000000
+      internalID: -4876042017846381234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 280
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d52625455d987f60800000000000000
+      internalID: 8032342924973188569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_84
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 267
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb950fbcb3c64f20800000000000000
+      internalID: 3406625383578442739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 280
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8addca018a57f10800000000000000
+      internalID: 2266902777024063739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_86
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 267
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d15b4cea38695000800000000000000
+      internalID: 25165875208999383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_87
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 281
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47f0172c9e673be0800000000000000
+      internalID: -1497606734128023729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 267
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a193ab5a1cde9b5f0800000000000000
+      internalID: -740299247760819942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_89
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 281
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91893840806ed9240800000000000000
+      internalID: 4800245699956676633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_90
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 239
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc57f2e25e8988d40800000000000000
+      internalID: 5586883447842895311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 239
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841ccf270babeece0800000000000000
+      internalID: -1373955569295244984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_92
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 239
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f5d8c78b67b640800000000000000
+      internalID: 5095659734327228453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_93
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 239
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1124cde592077b120800000000000000
+      internalID: 2429533846977135121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_94
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 239
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f53aed0d0c0ee0800000000000000
+      internalID: -1293644639547034257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_95
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 251
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9d9afa702587dc0800000000000000
+      internalID: -3641070105763653138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_96
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 239
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d346abe0ad77190800000000000000
+      internalID: -7964657659189904059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_97
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 239
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81611b2054a2860800000000000000
+      internalID: 7505887606829619432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_98
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 239
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9442bd89dae3950800000000000000
+      internalID: 6430768189954869704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f99c4f384fa070800000000000000
+      internalID: 8119788089877592208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_100
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 203
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7140693c3322edb40800000000000000
+      internalID: 5466844603394425879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076bcf767e4695f20800000000000000
+      internalID: 3411869137754699376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_102
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 203
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bc29617021c0d20800000000000000
+      internalID: 3245989253080075128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 216
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ccce85efe7b8c0800000000000000
+      internalID: -3983451576163581120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 203
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12330e32362712a0800000000000000
+      internalID: -6766897917870263779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_105
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122a1ba7338428ef0800000000000000
+      internalID: -107444055164476895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_106
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 203
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a389b234064ba80800000000000000
+      internalID: -8452024759057106391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_107
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c963096371c6ebc0800000000000000
+      internalID: -3754100537939498560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 203
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dd331d802e00f20800000000000000
+      internalID: 3386955447280065829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_109
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 216
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d61259954e29590800000000000000
+      internalID: -7668816142053315239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_110
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 203
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a958ec4053f6bd00800000000000000
+      internalID: 988244694467631526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_111
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 216
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c635f6592930d450800000000000000
+      internalID: 6111447544057116359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_112
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 203
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829077e86232d4db0800000000000000
+      internalID: -4806146578828555992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_113
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 216
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafa6131ab8a77f20800000000000000
+      internalID: 3420387959148818348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_114
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 203
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b91e673bbbc5cdc0800000000000000
+      internalID: -3619262720573040208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_115
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 216
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321e01328d2901810800000000000000
+      internalID: 1734047313536540963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_116
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 175
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6b7bd9927ceb740800000000000000
+      internalID: 5169788403821557441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_117
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 175
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8992d4a1bac926a0800000000000000
+      internalID: -6473420125045089910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_118
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 175
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1ac9745b8d24d80800000000000000
+      internalID: -8267807692796681741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_119
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 175
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488c2af14a2045770800000000000000
+      internalID: 8598500492485773444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_120
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 190
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc71f9dcce3987d0800000000000000
+      internalID: -2915730234194953019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_121
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 191
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37683b14eb793e290800000000000000
+      internalID: -7862273681056889229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_122
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 190
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec8ab0819d17e740800000000000000
+      internalID: 5181142407080217826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_123
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 191
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16884d07f5f442260800000000000000
+      internalID: 7071864586211985505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622fdba828727000800000000000000
+      internalID: 32220263422567013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_125
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 139
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1437682989dde6900800000000000000
+      internalID: 679724241142575937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b5c799db91ea770800000000000000
+      internalID: 8623858638575655776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_127
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 139
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e90b4452503fc0800000000000000
+      internalID: -3517220786986687478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 152
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6da04d4591f8720800000000000000
+      internalID: 2850524941274240711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_129
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 139
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9904adb368f6dc960800000000000000
+      internalID: 7623872366528577689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_130
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 152
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62d3f187f8a6b6f0800000000000000
+      internalID: -669161713627311505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_131
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 139
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aefd4fc8d02c8db0800000000000000
+      internalID: -4788416188238659935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 152
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c88390701798f00800000000000000
+      internalID: 1119550257411689618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31c312f597a00000800000000000000
+      internalID: 184262453346621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_134
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 111
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a164b46fdc39d4b0800000000000000
+      internalID: -5415230146771394138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_135
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57ae261632506680800000000000000
+      internalID: -8763914482609117349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_136
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 111
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505391b6d7dfc120800000000000000
+      internalID: 2436403240532922462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_137
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f44f93a64214330800000000000000
+      internalID: 3693273208077963031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_138
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730aed0307fad16a0800000000000000
+      internalID: -6476827792697810889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_139
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbbb4d7100229270800000000000000
+      internalID: 8255696257692711881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_140
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 111
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4be61055ced10f0800000000000000
+      internalID: -1144498880441830225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_141
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef1536d45001850800000000000000
+      internalID: 6345577704901967478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_142
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 111
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2d5e097fec49950800000000000000
+      internalID: 6455011728611988203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_143
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e70680dd38079e00800000000000000
+      internalID: 1051318099598772198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_144
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 111
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd30c55a3dd9966f0800000000000000
+      internalID: -690847535486729249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_145
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1239251fbeb7dbb0800000000000000
+      internalID: -4911247140721184225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_146
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 111
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3575d65e5003b7fb0800000000000000
+      internalID: -4649069388447787181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_147
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971889a38dabc9720800000000000000
+      internalID: 2854361701704827257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_148
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 111
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8dab9b2290a0420800000000000000
+      internalID: 2596898179882080462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_149
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 88
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce0147d66c4c1d50800000000000000
+      internalID: 6709321549456936642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_150
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e0eebe69080e90800000000000000
+      internalID: -7059382044649791182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_151
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c69b2b9c804760800000000000000
+      internalID: 7440101182495179678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_152
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec97752685d594b10800000000000000
+      internalID: 1966205346512337358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_153
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1b5ba68069dc120800000000000000
+      internalID: 2435767936371503537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_154
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9801b98c72fd2ac60800000000000000
+      internalID: 7828064464285667465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_155
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba4614bdf2a7dc0800000000000000
+      internalID: -3640544730034164798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_156
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810f8423da9b99f90800000000000000
+      internalID: -6946316796718157800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_157
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060965aeb9c514df0800000000000000
+      internalID: -197775083906363296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_158
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 47
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ef3f22c81e446e0800000000000000
+      internalID: -1854109154571715016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_159
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 47
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ace0ad07c7767c0800000000000000
+      internalID: -4078154113424110973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_160
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 47
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b2a39b561ff20e0800000000000000
+      internalID: -2292348266106704998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_161
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 47
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d10a7d12fe589a50800000000000000
+      internalID: 6528072053843165652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_162
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 61
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5195c762ec7154560800000000000000
+      internalID: 7297264945400142101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_163
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 63
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c730ded98406dc0800000000000000
+      internalID: -3647835855046607799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_164
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 63
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c30751ef63f4550800000000000000
+      internalID: 6147192481293286415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_165
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 63
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03497f6c60352430800000000000000
+      internalID: 3757462706395366154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a9f7eb3719c460800000000000000
+      internalID: 7262361420174041632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_167
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d313a2ad51063f080800000000000000
+      internalID: -9154867970543308483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_168
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 24
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27d5952701783750800000000000000
+      internalID: 6284897555504813870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_169
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 11
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43af3c09bb29c690800000000000000
+      internalID: -7581480423927078068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_170
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 24
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f9ef52b115ffdb0800000000000000
+      internalID: -4755993504436543585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_171
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c3f2acd2010f0f0800000000000000
+      internalID: -1085349721344623500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_172
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 24
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb03a72d089db900800000000000000
+      internalID: 701884299206658998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_173
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 11
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81e26bae93091fe0800000000000000
+      internalID: -1217938244211908213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_174
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 24
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605f94c6748faf070800000000000000
+      internalID: 8141092262068745478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_175
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c5b7f0743f613f0800000000000000
+      internalID: -930288786477458427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_176
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3233a2a5639be00800000000000000
+      internalID: 1060938948105413623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_177
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95927d18c77829da0800000000000000
+      internalID: -5939535989724206759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_178
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac06d66796a2b6190800000000000000
+      internalID: -7968228483255148342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner bloom_179
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d11fe713664200800000000000000
+      internalID: 163927390891922959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      combiner bloom_0: 3652467388891990653
+      combiner bloom_1: 189344818292606214
+      combiner bloom_10: 2616547831633979594
+      combiner bloom_100: 5466844603394425879
+      combiner bloom_101: 3411869137754699376
+      combiner bloom_102: 3245989253080075128
+      combiner bloom_103: -3983451576163581120
+      combiner bloom_104: -6766897917870263779
+      combiner bloom_105: -107444055164476895
+      combiner bloom_106: -8452024759057106391
+      combiner bloom_107: -3754100537939498560
+      combiner bloom_108: 3386955447280065829
+      combiner bloom_109: -7668816142053315239
+      combiner bloom_11: -5765882891052345550
+      combiner bloom_110: 988244694467631526
+      combiner bloom_111: 6111447544057116359
+      combiner bloom_112: -4806146578828555992
+      combiner bloom_113: 3420387959148818348
+      combiner bloom_114: -3619262720573040208
+      combiner bloom_115: 1734047313536540963
+      combiner bloom_116: 5169788403821557441
+      combiner bloom_117: -6473420125045089910
+      combiner bloom_118: -8267807692796681741
+      combiner bloom_119: 8598500492485773444
+      combiner bloom_12: 161080531971066270
+      combiner bloom_120: -2915730234194953019
+      combiner bloom_121: -7862273681056889229
+      combiner bloom_122: 5181142407080217826
+      combiner bloom_123: 7071864586211985505
+      combiner bloom_124: 32220263422567013
+      combiner bloom_125: 679724241142575937
+      combiner bloom_126: 8623858638575655776
+      combiner bloom_127: -3517220786986687478
+      combiner bloom_128: 2850524941274240711
+      combiner bloom_129: 7623872366528577689
+      combiner bloom_13: 8573295271981654667
+      combiner bloom_130: -669161713627311505
+      combiner bloom_131: -4788416188238659935
+      combiner bloom_132: 1119550257411689618
+      combiner bloom_133: 184262453346621
+      combiner bloom_134: -5415230146771394138
+      combiner bloom_135: -8763914482609117349
+      combiner bloom_136: 2436403240532922462
+      combiner bloom_137: 3693273208077963031
+      combiner bloom_138: -6476827792697810889
+      combiner bloom_139: 8255696257692711881
+      combiner bloom_14: 5703649015398360936
+      combiner bloom_140: -1144498880441830225
+      combiner bloom_141: 6345577704901967478
+      combiner bloom_142: 6455011728611988203
+      combiner bloom_143: 1051318099598772198
+      combiner bloom_144: -690847535486729249
+      combiner bloom_145: -4911247140721184225
+      combiner bloom_146: -4649069388447787181
+      combiner bloom_147: 2854361701704827257
+      combiner bloom_148: 2596898179882080462
+      combiner bloom_149: 6709321549456936642
+      combiner bloom_15: 2204230027035997993
+      combiner bloom_150: -7059382044649791182
+      combiner bloom_151: 7440101182495179678
+      combiner bloom_152: 1966205346512337358
+      combiner bloom_153: 2435767936371503537
+      combiner bloom_154: 7828064464285667465
+      combiner bloom_155: -3640544730034164798
+      combiner bloom_156: -6946316796718157800
+      combiner bloom_157: -197775083906363296
+      combiner bloom_158: -1854109154571715016
+      combiner bloom_159: -4078154113424110973
+      combiner bloom_16: 1083950143806613034
+      combiner bloom_160: -2292348266106704998
+      combiner bloom_161: 6528072053843165652
+      combiner bloom_162: 7297264945400142101
+      combiner bloom_163: -3647835855046607799
+      combiner bloom_164: 6147192481293286415
+      combiner bloom_165: 3757462706395366154
+      combiner bloom_166: 7262361420174041632
+      combiner bloom_167: -9154867970543308483
+      combiner bloom_168: 6284897555504813870
+      combiner bloom_169: -7581480423927078068
+      combiner bloom_17: -2518558709636333804
+      combiner bloom_170: -4755993504436543585
+      combiner bloom_171: -1085349721344623500
+      combiner bloom_172: 701884299206658998
+      combiner bloom_173: -1217938244211908213
+      combiner bloom_174: 8141092262068745478
+      combiner bloom_175: -930288786477458427
+      combiner bloom_176: 1060938948105413623
+      combiner bloom_177: -5939535989724206759
+      combiner bloom_178: -7968228483255148342
+      combiner bloom_179: 163927390891922959
+      combiner bloom_18: -201588887459250190
+      combiner bloom_19: 6236989368323614376
+      combiner bloom_2: 4773348611244773940
+      combiner bloom_20: -2375860670031536267
+      combiner bloom_21: -8019197824496166554
+      combiner bloom_22: -3155509460062277188
+      combiner bloom_23: -4380175067558378228
+      combiner bloom_24: 5354449282088468171
+      combiner bloom_25: 3387859916534068840
+      combiner bloom_26: -5554674720916040650
+      combiner bloom_27: -1796187723748235448
+      combiner bloom_28: 3219491585027206055
+      combiner bloom_29: -5600904458648420461
+      combiner bloom_3: -839908914390949295
+      combiner bloom_30: 3130660620257523571
+      combiner bloom_31: -6134055776838118810
+      combiner bloom_32: 7845237294678570708
+      combiner bloom_33: -6497855045594710450
+      combiner bloom_34: -3636923267961909833
+      combiner bloom_35: -7158549960068364253
+      combiner bloom_36: 7132588951247688190
+      combiner bloom_37: -8485764523887432962
+      combiner bloom_38: -4436544751023049794
+      combiner bloom_39: 4526445239867558635
+      combiner bloom_4: 5736437392198282236
+      combiner bloom_40: 7703922617091935830
+      combiner bloom_41: 112638158281250647
+      combiner bloom_42: -1030623404287314010
+      combiner bloom_43: 9223252097089148957
+      combiner bloom_44: -4778060219343787382
+      combiner bloom_45: 9050994667495250222
+      combiner bloom_46: -5822631854758360911
+      combiner bloom_47: 7787988275082529534
+      combiner bloom_48: -2999219800116529725
+      combiner bloom_49: 3664680096404412641
+      combiner bloom_5: 6992842544031665227
+      combiner bloom_50: 8083881451092616410
+      combiner bloom_51: 2720595967122084266
+      combiner bloom_52: -7780353384750431776
+      combiner bloom_53: -5225545498751428956
+      combiner bloom_54: -517422043710548918
+      combiner bloom_55: -6347983534166224173
+      combiner bloom_56: 6994843324677500432
+      combiner bloom_57: 592937144730467137
+      combiner bloom_58: -3790234343561140200
+      combiner bloom_59: 2849999632674520003
+      combiner bloom_6: 7856777080654417219
+      combiner bloom_60: -3100614999866816451
+      combiner bloom_61: -6906134081212663015
+      combiner bloom_62: -7819324040792087408
+      combiner bloom_63: 5322224821041112602
+      combiner bloom_64: 6067433469859858318
+      combiner bloom_65: -3312296329515045576
+      combiner bloom_66: 628146866903359279
+      combiner bloom_67: -4545970061235159117
+      combiner bloom_68: -4529381585879831604
+      combiner bloom_69: -2402190055471272922
+      combiner bloom_7: 3510971458932191613
+      combiner bloom_70: -6191078252960135260
+      combiner bloom_71: 4785164398382962175
+      combiner bloom_72: 1735372430186605296
+      combiner bloom_73: 4758293744736188991
+      combiner bloom_74: 3939341912715397998
+      combiner bloom_75: -2299599371208646739
+      combiner bloom_76: 7654357856832124331
+      combiner bloom_77: 3141129963496903662
+      combiner bloom_78: -6508004834970344630
+      combiner bloom_79: 7721741321155767978
+      combiner bloom_8: 3471589107593093340
+      combiner bloom_80: 388123267444940821
+      combiner bloom_81: -1199384571087454935
+      combiner bloom_82: -4876042017846381234
+      combiner bloom_83: 8032342924973188569
+      combiner bloom_84: 3406625383578442739
+      combiner bloom_85: 2266902777024063739
+      combiner bloom_86: 25165875208999383
+      combiner bloom_87: -1497606734128023729
+      combiner bloom_88: -740299247760819942
+      combiner bloom_89: 4800245699956676633
+      combiner bloom_9: 8657260933780461946
+      combiner bloom_90: 5586883447842895311
+      combiner bloom_91: -1373955569295244984
+      combiner bloom_92: 5095659734327228453
+      combiner bloom_93: 2429533846977135121
+      combiner bloom_94: -1293644639547034257
+      combiner bloom_95: -3641070105763653138
+      combiner bloom_96: -7964657659189904059
+      combiner bloom_97: 7505887606829619432
+      combiner bloom_98: 6430768189954869704
+      combiner bloom_99: 8119788089877592208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

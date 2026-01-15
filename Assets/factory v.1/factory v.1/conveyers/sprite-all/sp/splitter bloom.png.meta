@@ -1,0 +1,4966 @@
+fileFormatVersion: 2
+guid: 5646b1f44d7054743b91eb62c6082f02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8484204323703970708
+    second: splitter bloom_0
+  - first:
+      213: 4871108785768968375
+    second: splitter bloom_1
+  - first:
+      213: 3450416422092334705
+    second: splitter bloom_2
+  - first:
+      213: -3062272060516814848
+    second: splitter bloom_3
+  - first:
+      213: -4654836188525019255
+    second: splitter bloom_4
+  - first:
+      213: -3036493319178480985
+    second: splitter bloom_5
+  - first:
+      213: -1196604200835144653
+    second: splitter bloom_6
+  - first:
+      213: -5849539194330941195
+    second: splitter bloom_7
+  - first:
+      213: 7288265525503498081
+    second: splitter bloom_8
+  - first:
+      213: 1703731924158151625
+    second: splitter bloom_9
+  - first:
+      213: -770068698804820706
+    second: splitter bloom_10
+  - first:
+      213: -182990132689382907
+    second: splitter bloom_11
+  - first:
+      213: 2852368464296337810
+    second: splitter bloom_12
+  - first:
+      213: -2075249109373569474
+    second: splitter bloom_13
+  - first:
+      213: 2907301742103598398
+    second: splitter bloom_14
+  - first:
+      213: -2784762220632554629
+    second: splitter bloom_15
+  - first:
+      213: 20166883871302239
+    second: splitter bloom_16
+  - first:
+      213: 8858708023593185065
+    second: splitter bloom_17
+  - first:
+      213: 7281902932481162271
+    second: splitter bloom_18
+  - first:
+      213: -9047061849774817247
+    second: splitter bloom_19
+  - first:
+      213: -776899155847700989
+    second: splitter bloom_20
+  - first:
+      213: 7315558616278869171
+    second: splitter bloom_21
+  - first:
+      213: -8501724254734759545
+    second: splitter bloom_22
+  - first:
+      213: 7998208726381385063
+    second: splitter bloom_23
+  - first:
+      213: 2215469630738438657
+    second: splitter bloom_24
+  - first:
+      213: -9098878656660230239
+    second: splitter bloom_25
+  - first:
+      213: 5703278081568044773
+    second: splitter bloom_26
+  - first:
+      213: 2657627637826036899
+    second: splitter bloom_27
+  - first:
+      213: 1748187885302092572
+    second: splitter bloom_28
+  - first:
+      213: 262395458347665396
+    second: splitter bloom_29
+  - first:
+      213: 8291196441493499093
+    second: splitter bloom_30
+  - first:
+      213: -4482424919237161936
+    second: splitter bloom_31
+  - first:
+      213: 7943957181819617187
+    second: splitter bloom_32
+  - first:
+      213: 3761132188248975307
+    second: splitter bloom_33
+  - first:
+      213: -5573130669015787265
+    second: splitter bloom_34
+  - first:
+      213: -7002446982424837921
+    second: splitter bloom_35
+  - first:
+      213: -1312623220694543392
+    second: splitter bloom_36
+  - first:
+      213: 4046702598745857051
+    second: splitter bloom_37
+  - first:
+      213: -3067690580733469452
+    second: splitter bloom_38
+  - first:
+      213: -4204272554429486879
+    second: splitter bloom_39
+  - first:
+      213: 109823245996649409
+    second: splitter bloom_40
+  - first:
+      213: 5845528431340417107
+    second: splitter bloom_41
+  - first:
+      213: -323839987383874417
+    second: splitter bloom_42
+  - first:
+      213: 4936339558501380280
+    second: splitter bloom_43
+  - first:
+      213: -3037919373131800801
+    second: splitter bloom_44
+  - first:
+      213: -2227779486577387674
+    second: splitter bloom_45
+  - first:
+      213: 8302372964140905135
+    second: splitter bloom_46
+  - first:
+      213: -8341163618291152722
+    second: splitter bloom_47
+  - first:
+      213: -2325912958924054708
+    second: splitter bloom_48
+  - first:
+      213: -5164803228623313926
+    second: splitter bloom_49
+  - first:
+      213: 1501923943364967271
+    second: splitter bloom_50
+  - first:
+      213: -230552946512320458
+    second: splitter bloom_51
+  - first:
+      213: -706440018026263400
+    second: splitter bloom_52
+  - first:
+      213: 1409009610742230239
+    second: splitter bloom_53
+  - first:
+      213: 9034348892092507762
+    second: splitter bloom_54
+  - first:
+      213: -2552852426755159764
+    second: splitter bloom_55
+  - first:
+      213: -6271282960278256708
+    second: splitter bloom_56
+  - first:
+      213: 2985755713465803597
+    second: splitter bloom_57
+  - first:
+      213: 957198486299462513
+    second: splitter bloom_58
+  - first:
+      213: -1048871887766574034
+    second: splitter bloom_59
+  - first:
+      213: 149732341896139537
+    second: splitter bloom_60
+  - first:
+      213: -4206226040395940523
+    second: splitter bloom_61
+  - first:
+      213: 4415008723310454485
+    second: splitter bloom_62
+  - first:
+      213: 3010132556589033102
+    second: splitter bloom_63
+  - first:
+      213: -562531714355844675
+    second: splitter bloom_64
+  - first:
+      213: -8288170286844137834
+    second: splitter bloom_65
+  - first:
+      213: -6317303603576229096
+    second: splitter bloom_66
+  - first:
+      213: -6188969398298300691
+    second: splitter bloom_67
+  - first:
+      213: -8606016648772453710
+    second: splitter bloom_68
+  - first:
+      213: 747020673135259103
+    second: splitter bloom_69
+  - first:
+      213: 612016064692970435
+    second: splitter bloom_70
+  - first:
+      213: 6045385024433603461
+    second: splitter bloom_71
+  - first:
+      213: 2497653389284288552
+    second: splitter bloom_72
+  - first:
+      213: -4715491449915216047
+    second: splitter bloom_73
+  - first:
+      213: 7152942167044323113
+    second: splitter bloom_74
+  - first:
+      213: 6655454299310498984
+    second: splitter bloom_75
+  - first:
+      213: -5818249068264551436
+    second: splitter bloom_76
+  - first:
+      213: 934781803533247855
+    second: splitter bloom_77
+  - first:
+      213: 5275046435254488733
+    second: splitter bloom_78
+  - first:
+      213: 2979363871747028711
+    second: splitter bloom_79
+  - first:
+      213: -6518605142005515641
+    second: splitter bloom_80
+  - first:
+      213: -5238249080090793477
+    second: splitter bloom_81
+  - first:
+      213: 1699781433216193367
+    second: splitter bloom_82
+  - first:
+      213: -1226429497016548580
+    second: splitter bloom_83
+  - first:
+      213: 7601234777410079662
+    second: splitter bloom_84
+  - first:
+      213: 3246231053778766214
+    second: splitter bloom_85
+  - first:
+      213: -2747105173521658978
+    second: splitter bloom_86
+  - first:
+      213: -1726913973142538022
+    second: splitter bloom_87
+  - first:
+      213: -6303039611377249956
+    second: splitter bloom_88
+  - first:
+      213: 6872347706255588023
+    second: splitter bloom_89
+  - first:
+      213: 3116876120715975828
+    second: splitter bloom_90
+  - first:
+      213: -4621159131872574768
+    second: splitter bloom_91
+  - first:
+      213: -1061621075553425919
+    second: splitter bloom_92
+  - first:
+      213: -7459764885671481930
+    second: splitter bloom_93
+  - first:
+      213: -3840952094645461541
+    second: splitter bloom_94
+  - first:
+      213: 2076879474358539309
+    second: splitter bloom_95
+  - first:
+      213: 8251416580140580430
+    second: splitter bloom_96
+  - first:
+      213: 3491451354921566149
+    second: splitter bloom_97
+  - first:
+      213: -7877766525070751789
+    second: splitter bloom_98
+  - first:
+      213: 8768380377701870996
+    second: splitter bloom_99
+  - first:
+      213: 7353897418414166208
+    second: splitter bloom_100
+  - first:
+      213: 5655509066386108259
+    second: splitter bloom_101
+  - first:
+      213: -2162968284859958618
+    second: splitter bloom_102
+  - first:
+      213: -8788059916777199192
+    second: splitter bloom_103
+  - first:
+      213: -505250978459596944
+    second: splitter bloom_104
+  - first:
+      213: 7723883740792765526
+    second: splitter bloom_105
+  - first:
+      213: -3315335104176383923
+    second: splitter bloom_106
+  - first:
+      213: 5970151058586427703
+    second: splitter bloom_107
+  - first:
+      213: 3487030455992352977
+    second: splitter bloom_108
+  - first:
+      213: -4901221170660979612
+    second: splitter bloom_109
+  - first:
+      213: -6844456446627699243
+    second: splitter bloom_110
+  - first:
+      213: -2823483925196040743
+    second: splitter bloom_111
+  - first:
+      213: -5204843917947179289
+    second: splitter bloom_112
+  - first:
+      213: 5537140973294525450
+    second: splitter bloom_113
+  - first:
+      213: -3751959191397794127
+    second: splitter bloom_114
+  - first:
+      213: -7087574441377643390
+    second: splitter bloom_115
+  - first:
+      213: 8769020735199959044
+    second: splitter bloom_116
+  - first:
+      213: 3785481576697500104
+    second: splitter bloom_117
+  - first:
+      213: 7660649662985886612
+    second: splitter bloom_118
+  - first:
+      213: -1637112738213750180
+    second: splitter bloom_119
+  - first:
+      213: 4651173653998456711
+    second: splitter bloom_120
+  - first:
+      213: 5575638971946099288
+    second: splitter bloom_121
+  - first:
+      213: -7697170490986433300
+    second: splitter bloom_122
+  - first:
+      213: -2883109829428519661
+    second: splitter bloom_123
+  - first:
+      213: 7970262689727368530
+    second: splitter bloom_124
+  - first:
+      213: -925290922433970117
+    second: splitter bloom_125
+  - first:
+      213: 1344876375299080656
+    second: splitter bloom_126
+  - first:
+      213: -7633740059893484806
+    second: splitter bloom_127
+  - first:
+      213: 8851047261855344029
+    second: splitter bloom_128
+  - first:
+      213: 4610622764669913070
+    second: splitter bloom_129
+  - first:
+      213: 3855886680437389339
+    second: splitter bloom_130
+  - first:
+      213: -7680654683120028831
+    second: splitter bloom_131
+  - first:
+      213: 6082031096248602996
+    second: splitter bloom_132
+  - first:
+      213: 5553286896930724067
+    second: splitter bloom_133
+  - first:
+      213: -8375479778235170728
+    second: splitter bloom_134
+  - first:
+      213: -6932401137866266112
+    second: splitter bloom_135
+  - first:
+      213: -2175200362825709406
+    second: splitter bloom_136
+  - first:
+      213: 297147654596723204
+    second: splitter bloom_137
+  - first:
+      213: -960789465457505151
+    second: splitter bloom_138
+  - first:
+      213: -7640487451756270068
+    second: splitter bloom_139
+  - first:
+      213: 4316083361104752457
+    second: splitter bloom_140
+  - first:
+      213: 2082448388909656863
+    second: splitter bloom_141
+  - first:
+      213: -8998880168066350686
+    second: splitter bloom_142
+  - first:
+      213: -1637983949680505589
+    second: splitter bloom_143
+  - first:
+      213: 6988925515774342976
+    second: splitter bloom_144
+  - first:
+      213: -2701464314470794473
+    second: splitter bloom_145
+  - first:
+      213: 3213409348951397418
+    second: splitter bloom_146
+  - first:
+      213: -5825109012380272191
+    second: splitter bloom_147
+  - first:
+      213: 8699292855783869563
+    second: splitter bloom_148
+  - first:
+      213: 5459442159152206109
+    second: splitter bloom_149
+  - first:
+      213: -2023186391315372506
+    second: splitter bloom_150
+  - first:
+      213: 2912267091789776192
+    second: splitter bloom_151
+  - first:
+      213: 6983091663311934389
+    second: splitter bloom_152
+  - first:
+      213: -5491176924921382709
+    second: splitter bloom_153
+  - first:
+      213: -451722498818191216
+    second: splitter bloom_154
+  - first:
+      213: 7162786002340602214
+    second: splitter bloom_155
+  - first:
+      213: 3871606998770312149
+    second: splitter bloom_156
+  - first:
+      213: -5932196682446569539
+    second: splitter bloom_157
+  - first:
+      213: 2949788563452846406
+    second: splitter bloom_158
+  - first:
+      213: -8209066565544531142
+    second: splitter bloom_159
+  - first:
+      213: -7783936893317599352
+    second: splitter bloom_160
+  - first:
+      213: -4233874754398731023
+    second: splitter bloom_161
+  - first:
+      213: -485505044912857890
+    second: splitter bloom_162
+  - first:
+      213: 5868955438098270419
+    second: splitter bloom_163
+  - first:
+      213: -6755859028777313694
+    second: splitter bloom_164
+  - first:
+      213: -8766657223699794126
+    second: splitter bloom_165
+  - first:
+      213: -8818723594429284806
+    second: splitter bloom_166
+  - first:
+      213: -8789468290092236775
+    second: splitter bloom_167
+  - first:
+      213: 6030357691822231630
+    second: splitter bloom_168
+  - first:
+      213: 7608110242337785326
+    second: splitter bloom_169
+  - first:
+      213: 6704166459400994773
+    second: splitter bloom_170
+  - first:
+      213: -6467673094126434037
+    second: splitter bloom_171
+  - first:
+      213: 5123649912050277658
+    second: splitter bloom_172
+  - first:
+      213: 6043476783041652541
+    second: splitter bloom_173
+  - first:
+      213: -1089381530523434582
+    second: splitter bloom_174
+  - first:
+      213: 7419843734496225277
+    second: splitter bloom_175
+  - first:
+      213: 6197282123387328561
+    second: splitter bloom_176
+  - first:
+      213: 5729243372469664983
+    second: splitter bloom_177
+  - first:
+      213: -1813554332564398471
+    second: splitter bloom_178
+  - first:
+      213: 8094497738951673018
+    second: splitter bloom_179
+  - first:
+      213: 5382061713022225663
+    second: splitter bloom_180
+  - first:
+      213: -4740721559194344485
+    second: splitter bloom_181
+  - first:
+      213: -3534729454156572878
+    second: splitter bloom_182
+  - first:
+      213: -702409869624192562
+    second: splitter bloom_183
+  - first:
+      213: -3097506374051143997
+    second: splitter bloom_184
+  - first:
+      213: 4172513842296104145
+    second: splitter bloom_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splitter bloom_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 495
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b553491e2fdb570800000000000000
+      internalID: 8484204323703970708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 495
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b03b06e1a7a99340800000000000000
+      internalID: 4871108785768968375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 495
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176ecfd647752ef20800000000000000
+      internalID: 3450416422092334705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 495
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000ba4b19cf9085d0800000000000000
+      internalID: -3062272060516814848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 495
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f355f1623b66fb0800000000000000
+      internalID: -4654836188525019255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 507
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2158b0a653cd5d0800000000000000
+      internalID: -3036493319178480985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 495
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3342b78b1dec46fe0800000000000000
+      internalID: -1196604200835144653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 495
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8fd2e481342dea0800000000000000
+      internalID: -5849539194330941195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 495
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1679c5c61ee152560800000000000000
+      internalID: 7288265525503498081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb70f3882fd4a710800000000000000
+      internalID: 1703731924158151625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 472
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e156713399a2055f0800000000000000
+      internalID: -770068698804820706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 472
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502d5af9173e57df0800000000000000
+      internalID: -182990132689382907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 472
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291e8ea7106a59720800000000000000
+      internalID: 2852368464296337810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 491
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36b75f1eeb3333e0800000000000000
+      internalID: -2075249109373569474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 472
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3595f8e78fc85820800000000000000
+      internalID: 2907301742103598398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 472
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73c44fb3898a59d0800000000000000
+      internalID: -2784762220632554629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 472
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52206d8ca5a74000800000000000000
+      internalID: 20166883871302239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 472
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fac23130470fa70800000000000000
+      internalID: 8858708023593185065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_18
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 472
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c3a6bc2248e0560800000000000000
+      internalID: 7281902932481162271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1200f275e21627280800000000000000
+      internalID: -9047061849774817247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e956d7556e735f0800000000000000
+      internalID: -776899155847700989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4a9d05dc5168560800000000000000
+      internalID: 7315558616278869171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789463a95dec30a80800000000000000
+      internalID: -8501724254734759545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7655467d5785ffe60800000000000000
+      internalID: 7998208726381385063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a94de14edeebe10800000000000000
+      internalID: 2215469630738438657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_25
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2267d11a4ab180800000000000000
+      internalID: -9098878656660230239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_26
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 458
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6722ba23d162f40800000000000000
+      internalID: 5703278081568044773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 431
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4a1e1814ac1e420800000000000000
+      internalID: 2657627637826036899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 431
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1392109e9fc24810800000000000000
+      internalID: 1748187885302092572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 431
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70d75774734a300800000000000000
+      internalID: 262395458347665396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_30
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 431
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dce3322c3f301370800000000000000
+      internalID: 8291196441493499093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 445
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c828ce84a3bc1c0800000000000000
+      internalID: -4482424919237161936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 446
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af754dc7fa9e3e60800000000000000
+      internalID: 7943957181819617187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 446
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc72ed14cc9323430800000000000000
+      internalID: 3761132188248975307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_34
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 446
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff89a7a2f2348a2b0800000000000000
+      internalID: -5573130669015787265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 446
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0cf0ee19f42de90800000000000000
+      internalID: -7002446982424837921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 446
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39296a220a8cde0800000000000000
+      internalID: -1312623220694543392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 448
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c95edb296c82830800000000000000
+      internalID: 4046702598745857051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcd19e8baf5d65d0800000000000000
+      internalID: -3067690580733469452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 394
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e86e4e036c67a5c0800000000000000
+      internalID: -4204272554429486879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbe5bd09ab268100800000000000000
+      internalID: 109823245996649409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_41
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 394
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350fd7a232d7f1150800000000000000
+      internalID: 5845528431340417107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 408
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ccaeb4f3d718bf0800000000000000
+      internalID: -323839987383874417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 394
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0fe23bca6618440800000000000000
+      internalID: 4936339558501380280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 408
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f933cfc6427d5d0800000000000000
+      internalID: -3037919373131800801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 394
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66717a83c565511e0800000000000000
+      internalID: -2227779486577387674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 408
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2fc681934f73370800000000000000
+      internalID: 8302372964140905135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 368
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8085ee1eb3e3c80800000000000000
+      internalID: -8341163618291152722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_48
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 368
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f9ad0bc72b8bfd0800000000000000
+      internalID: -2325912958924054708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 368
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3ed1fe3dee258b0800000000000000
+      internalID: -5164803228623313926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 363
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b3ce37ed7e7d410800000000000000
+      internalID: 1501923943364967271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 368
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638a6311159ecccf0800000000000000
+      internalID: -230552946512320458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 344
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c8c66eb883236f0800000000000000
+      internalID: -706440018026263400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 368
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdce66596cecd8310800000000000000
+      internalID: 1409009610742230239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_54
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 368
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2762e1a8374706d70800000000000000
+      internalID: 9034348892092507762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_55
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 368
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c3435e32729cd0800000000000000
+      internalID: -2552852426755159764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_56
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 368
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb387a2df5de7f8a0800000000000000
+      internalID: -6271282960278256708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e83f80098f6920800000000000000
+      internalID: 2985755713465803597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bcb6ba3f6a84d00800000000000000
+      internalID: 957198486299462513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 344
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ca7c24398a171f0800000000000000
+      internalID: -1048871887766574034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_60
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1135b1a85c4f31200800000000000000
+      internalID: 149732341896139537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 344
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55db339a3bb70a5c0800000000000000
+      internalID: -4206226040395940523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ab29ca03454d30800000000000000
+      internalID: 4415008723310454485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 344
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86e352ac9326c920800000000000000
+      internalID: 3010132556589033102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9adeed26c7138f0800000000000000
+      internalID: -562531714355844675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e25b669018afc80800000000000000
+      internalID: -8288170286844137834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 344
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8133b82d7dd6458a0800000000000000
+      internalID: -6317303603576229096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeaaa07f1d5c1aa0800000000000000
+      internalID: -6188969398298300691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_68
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 344
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf1de5479419880800000000000000
+      internalID: -8606016648772453710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_69
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda9162853fd5a00800000000000000
+      internalID: 747020673135259103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 344
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c36bd44e515e7800800000000000000
+      internalID: 612016064692970435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_71
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 331
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c4df56a585e350800000000000000
+      internalID: 6045385024433603461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_72
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 344
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8282750468279a220800000000000000
+      internalID: 2497653389284288552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_73
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 304
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f696292853f8eb0800000000000000
+      internalID: -4715491449915216047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_74
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 304
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927f695c00b544360800000000000000
+      internalID: 7152942167044323113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 304
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4af315c6cec5c50800000000000000
+      internalID: 6655454299310498984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_76
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 304
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb085f7c4d614fa0800000000000000
+      internalID: -5818249068264551436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_77
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 317
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65291ef81309fc00800000000000000
+      internalID: 934781803533247855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_78
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 318
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ec803d8cab43940800000000000000
+      internalID: 5275046435254488733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_79
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 320
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63d10f7a3d85920800000000000000
+      internalID: 2979363871747028711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_80
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 319
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78af9bf09234985a0800000000000000
+      internalID: -6518605142005515641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9eb2017300e47b0800000000000000
+      internalID: -5238249080090793477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 267
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d7aa2536d69710800000000000000
+      internalID: 1699781433216193367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 280
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c138440ded8dafee0800000000000000
+      internalID: -1226429497016548580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_84
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 267
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab8fd9c1c20d7960800000000000000
+      internalID: 7601234777410079662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 280
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6894353b1fdec0d20800000000000000
+      internalID: 3246231053778766214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_86
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 267
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b8a93466250e9d0800000000000000
+      internalID: -2747105173521658978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 280
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad83e2914e4c808e0800000000000000
+      internalID: -1726913973142538022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 267
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5194ae4eda1788a0800000000000000
+      internalID: -6303039611377249956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_89
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bab55cd3db7f5f50800000000000000
+      internalID: 6872347706255588023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 241
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c5c20615e514b20800000000000000
+      internalID: 3116876120715975828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_91
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 255
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2ce26e0485edfb0800000000000000
+      internalID: -4621159131872574768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_92
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 241
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106e199a14d5441f0800000000000000
+      internalID: -1061621075553425919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd6e992c57997890800000000000000
+      internalID: -7459764885671481930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_94
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 241
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd5d5f8b6232bac0800000000000000
+      internalID: -3840952094645461541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 241
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d07ec0ee82dc10800000000000000
+      internalID: 2076879474358539309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_96
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 241
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e3c0969abe28270800000000000000
+      internalID: 8251416580140580430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 241
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cff7a04280247030800000000000000
+      internalID: 3491451354921566149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_98
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 241
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c1b9651d8ca290800000000000000
+      internalID: -7877766525070751789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_99
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 241
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dec642f7b8fa970800000000000000
+      internalID: 8768380377701870996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c01d3b4dba4e0660800000000000000
+      internalID: 7353897418414166208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 218
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fe1fd18876c7e40800000000000000
+      internalID: 5655509066386108259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_102
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 217
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7c780ec79bf1e0800000000000000
+      internalID: -2162968284859958618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_103
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 217
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a965ab111a8a0680800000000000000
+      internalID: -8788059916777199192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 217
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0774f7a79ecfcf8f0800000000000000
+      internalID: -505250978459596944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_105
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 218
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c3e50e65fb03b60800000000000000
+      internalID: 7723883740792765526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_106
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 217
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d481f24c9409df1d0800000000000000
+      internalID: -3315335104176383923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_107
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 217
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731677ea1cc3ad250800000000000000
+      internalID: 5970151058586427703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_108
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 218
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0846289bb646030800000000000000
+      internalID: 3487030455992352977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_109
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 218
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cc025205d5bfbb0800000000000000
+      internalID: -4901221170660979612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_110
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 203
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5af12102b9301a0800000000000000
+      internalID: -6844456446627699243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_111
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 191
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d51aa95458f0d8d0800000000000000
+      internalID: -2823483925196040743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_112
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 203
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eee767780ea4c7b0800000000000000
+      internalID: -5204843917947179289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_113
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 177
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c1b70d060e7dc40800000000000000
+      internalID: 5537140973294525450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_114
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 203
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bef8f08efc5eebc0800000000000000
+      internalID: -3751959191397794127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_115
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 177
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2844c8ed890e3ad90800000000000000
+      internalID: -7087574441377643390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 203
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d0adf5e1d1b970800000000000000
+      internalID: 8769020735199959044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_117
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 177
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c117da007bb88430800000000000000
+      internalID: 3785481576697500104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 203
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b5df6d748105a60800000000000000
+      internalID: 7660649662985886612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_119
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 190
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a908d63aec749e0800000000000000
+      internalID: -1637112738213750180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_120
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 190
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fcb3b9bc94c8040800000000000000
+      internalID: 4651173653998456711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_121
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852ebae9a16a06d40800000000000000
+      internalID: 5575638971946099288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_122
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 192
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4722548382e2590800000000000000
+      internalID: -7697170490986433300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_123
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 194
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dd970b2e22df7d0800000000000000
+      internalID: -2883109829428519661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_124
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 177
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dcfb320bf0c9e60800000000000000
+      internalID: 7970262689727368530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b300e66fec4b823f0800000000000000
+      internalID: -925290922433970117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 154
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1448810f5f9a210800000000000000
+      internalID: 1344876375299080656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 153
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2316e5cd18f0690800000000000000
+      internalID: -7633740059893484806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_128
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 154
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95e41df69c35da70800000000000000
+      internalID: 8851047261855344029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_129
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 153
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7ca71f9f83cff30800000000000000
+      internalID: 4610622764669913070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 154
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1871a9a18cd28530800000000000000
+      internalID: 3855886680437389339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_131
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 139
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163b0327245d86590800000000000000
+      internalID: -7680654683120028831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_132
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 139
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47117ccde07b76450800000000000000
+      internalID: 6082031096248602996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_133
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 139
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8136b920d311d40800000000000000
+      internalID: 5553286896930724067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_134
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 139
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85043d2548154cb80800000000000000
+      internalID: -8375479778235170728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_135
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aa7f005e92bcf90800000000000000
+      internalID: -6932401137866266112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_136
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 128
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a809727bc220d1e0800000000000000
+      internalID: -2175200362825709406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_137
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 112
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402041ea73eaf1400800000000000000
+      internalID: 297147654596723204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_138
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 112
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cc77752179aa2f0800000000000000
+      internalID: -960789465457505151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_139
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 112
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eec37c42987f590800000000000000
+      internalID: -7640487451756270068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_140
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 112
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f6f9703fec5eb30800000000000000
+      internalID: 4316083361104752457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_141
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 112
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b6b04c6c756ec10800000000000000
+      internalID: 2082448388909656863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_142
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 112
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1091e4a2e8d1380800000000000000
+      internalID: -8998880168066350686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_143
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 112
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d8083b646b449e0800000000000000
+      internalID: -1637983949680505589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047b4694ab6adf060800000000000000
+      internalID: 6988925515774342976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_145
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf29ad488728ad0800000000000000
+      internalID: -2701464314470794473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24da2a07c2589c20800000000000000
+      internalID: 3213409348951397418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_147
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b52b473e092fa0800000000000000
+      internalID: -5825109012380272191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_148
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c4712f2c81ab870800000000000000
+      internalID: 8699292855783869563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_149
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d111f08e7b5d3cb40800000000000000
+      internalID: 5459442159152206109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_150
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6262e3742b23ce3e0800000000000000
+      internalID: -2023186391315372506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_151
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04580397d737a6820800000000000000
+      internalID: 2912267091789776192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_152
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b313b9aedce8e060800000000000000
+      internalID: 6983091663311934389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_153
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc83d372eab6bc3b0800000000000000
+      internalID: -5491176924921382709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_154
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090d3e8d7c82bb9f0800000000000000
+      internalID: -451722498818191216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_155
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661e6a74be3576360800000000000000
+      internalID: 7162786002340602214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_156
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3ee9f7d06bab530800000000000000
+      internalID: 3871606998770312149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_157
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf75052c8a9cada0800000000000000
+      internalID: -5932196682446569539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_158
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 88
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641ed1fd111cfe820800000000000000
+      internalID: 2949788563452846406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_159
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 75
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bae2fb379831e80800000000000000
+      internalID: -8209066565544531142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_160
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 88
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f2fb7f2a6e9f390800000000000000
+      internalID: -7783936893317599352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_161
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4c198c7514e35c0800000000000000
+      internalID: -4233874754398731023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_162
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 48
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc1f45ebb32349f0800000000000000
+      internalID: -485505044912857890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_163
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 47
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8c17a30e7b27150800000000000000
+      internalID: 5868955438098270419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_164
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 48
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26adc15e10e5e32a0800000000000000
+      internalID: -6755859028777313694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_165
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 62
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f2c9e3b3965680800000000000000
+      internalID: -8766657223699794126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 62
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ebfad4d999d9580800000000000000
+      internalID: -8818723594429284806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_167
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 63
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9100e74a829850680800000000000000
+      internalID: -8789468290092236775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_168
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40db99de5220b350800000000000000
+      internalID: 6030357691822231630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_169
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 63
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee50e86b4ff659960800000000000000
+      internalID: 7608110242337785326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_170
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 62
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df3fa7efdbf90d50800000000000000
+      internalID: 6704166459400994773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_171
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 63
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b090e3d86953e36a0800000000000000
+      internalID: -6467673094126434037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dd731e27cda1740800000000000000
+      internalID: 5123649912050277658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_173
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 11
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a48d4d1ebed350800000000000000
+      internalID: 6043476783041652541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa18740154db1e0f0800000000000000
+      internalID: -1089381530523434582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_175
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df72e83809498f660800000000000000
+      internalID: 7419843734496225277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_176
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385161b14b210650800000000000000
+      internalID: 6197282123387328561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_177
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 11
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcb0df0e7c528f40800000000000000
+      internalID: 5729243372469664983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ed0a271f5f4d6e0800000000000000
+      internalID: -1813554332564398471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_179
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 11
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4ca6d9ece655070800000000000000
+      internalID: 8094497738951673018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_180
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 24
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc8be3dc9ce0ba40800000000000000
+      internalID: 5382061713022225663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_181
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd36f2dfbd2953eb0800000000000000
+      internalID: -4740721559194344485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_182
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23713eb0a4e12fec0800000000000000
+      internalID: -3534729454156572878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec15252f1f98046f0800000000000000
+      internalID: -702409869624192562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_184
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce5c253d527305d0800000000000000
+      internalID: -3097506374051143997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter bloom_185
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4a57e8b3fb7e930800000000000000
+      internalID: 4172513842296104145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      splitter bloom_0: 8484204323703970708
+      splitter bloom_1: 4871108785768968375
+      splitter bloom_10: -770068698804820706
+      splitter bloom_100: 7353897418414166208
+      splitter bloom_101: 5655509066386108259
+      splitter bloom_102: -2162968284859958618
+      splitter bloom_103: -8788059916777199192
+      splitter bloom_104: -505250978459596944
+      splitter bloom_105: 7723883740792765526
+      splitter bloom_106: -3315335104176383923
+      splitter bloom_107: 5970151058586427703
+      splitter bloom_108: 3487030455992352977
+      splitter bloom_109: -4901221170660979612
+      splitter bloom_11: -182990132689382907
+      splitter bloom_110: -6844456446627699243
+      splitter bloom_111: -2823483925196040743
+      splitter bloom_112: -5204843917947179289
+      splitter bloom_113: 5537140973294525450
+      splitter bloom_114: -3751959191397794127
+      splitter bloom_115: -7087574441377643390
+      splitter bloom_116: 8769020735199959044
+      splitter bloom_117: 3785481576697500104
+      splitter bloom_118: 7660649662985886612
+      splitter bloom_119: -1637112738213750180
+      splitter bloom_12: 2852368464296337810
+      splitter bloom_120: 4651173653998456711
+      splitter bloom_121: 5575638971946099288
+      splitter bloom_122: -7697170490986433300
+      splitter bloom_123: -2883109829428519661
+      splitter bloom_124: 7970262689727368530
+      splitter bloom_125: -925290922433970117
+      splitter bloom_126: 1344876375299080656
+      splitter bloom_127: -7633740059893484806
+      splitter bloom_128: 8851047261855344029
+      splitter bloom_129: 4610622764669913070
+      splitter bloom_13: -2075249109373569474
+      splitter bloom_130: 3855886680437389339
+      splitter bloom_131: -7680654683120028831
+      splitter bloom_132: 6082031096248602996
+      splitter bloom_133: 5553286896930724067
+      splitter bloom_134: -8375479778235170728
+      splitter bloom_135: -6932401137866266112
+      splitter bloom_136: -2175200362825709406
+      splitter bloom_137: 297147654596723204
+      splitter bloom_138: -960789465457505151
+      splitter bloom_139: -7640487451756270068
+      splitter bloom_14: 2907301742103598398
+      splitter bloom_140: 4316083361104752457
+      splitter bloom_141: 2082448388909656863
+      splitter bloom_142: -8998880168066350686
+      splitter bloom_143: -1637983949680505589
+      splitter bloom_144: 6988925515774342976
+      splitter bloom_145: -2701464314470794473
+      splitter bloom_146: 3213409348951397418
+      splitter bloom_147: -5825109012380272191
+      splitter bloom_148: 8699292855783869563
+      splitter bloom_149: 5459442159152206109
+      splitter bloom_15: -2784762220632554629
+      splitter bloom_150: -2023186391315372506
+      splitter bloom_151: 2912267091789776192
+      splitter bloom_152: 6983091663311934389
+      splitter bloom_153: -5491176924921382709
+      splitter bloom_154: -451722498818191216
+      splitter bloom_155: 7162786002340602214
+      splitter bloom_156: 3871606998770312149
+      splitter bloom_157: -5932196682446569539
+      splitter bloom_158: 2949788563452846406
+      splitter bloom_159: -8209066565544531142
+      splitter bloom_16: 20166883871302239
+      splitter bloom_160: -7783936893317599352
+      splitter bloom_161: -4233874754398731023
+      splitter bloom_162: -485505044912857890
+      splitter bloom_163: 5868955438098270419
+      splitter bloom_164: -6755859028777313694
+      splitter bloom_165: -8766657223699794126
+      splitter bloom_166: -8818723594429284806
+      splitter bloom_167: -8789468290092236775
+      splitter bloom_168: 6030357691822231630
+      splitter bloom_169: 7608110242337785326
+      splitter bloom_17: 8858708023593185065
+      splitter bloom_170: 6704166459400994773
+      splitter bloom_171: -6467673094126434037
+      splitter bloom_172: 5123649912050277658
+      splitter bloom_173: 6043476783041652541
+      splitter bloom_174: -1089381530523434582
+      splitter bloom_175: 7419843734496225277
+      splitter bloom_176: 6197282123387328561
+      splitter bloom_177: 5729243372469664983
+      splitter bloom_178: -1813554332564398471
+      splitter bloom_179: 8094497738951673018
+      splitter bloom_18: 7281902932481162271
+      splitter bloom_180: 5382061713022225663
+      splitter bloom_181: -4740721559194344485
+      splitter bloom_182: -3534729454156572878
+      splitter bloom_183: -702409869624192562
+      splitter bloom_184: -3097506374051143997
+      splitter bloom_185: 4172513842296104145
+      splitter bloom_19: -9047061849774817247
+      splitter bloom_2: 3450416422092334705
+      splitter bloom_20: -776899155847700989
+      splitter bloom_21: 7315558616278869171
+      splitter bloom_22: -8501724254734759545
+      splitter bloom_23: 7998208726381385063
+      splitter bloom_24: 2215469630738438657
+      splitter bloom_25: -9098878656660230239
+      splitter bloom_26: 5703278081568044773
+      splitter bloom_27: 2657627637826036899
+      splitter bloom_28: 1748187885302092572
+      splitter bloom_29: 262395458347665396
+      splitter bloom_3: -3062272060516814848
+      splitter bloom_30: 8291196441493499093
+      splitter bloom_31: -4482424919237161936
+      splitter bloom_32: 7943957181819617187
+      splitter bloom_33: 3761132188248975307
+      splitter bloom_34: -5573130669015787265
+      splitter bloom_35: -7002446982424837921
+      splitter bloom_36: -1312623220694543392
+      splitter bloom_37: 4046702598745857051
+      splitter bloom_38: -3067690580733469452
+      splitter bloom_39: -4204272554429486879
+      splitter bloom_4: -4654836188525019255
+      splitter bloom_40: 109823245996649409
+      splitter bloom_41: 5845528431340417107
+      splitter bloom_42: -323839987383874417
+      splitter bloom_43: 4936339558501380280
+      splitter bloom_44: -3037919373131800801
+      splitter bloom_45: -2227779486577387674
+      splitter bloom_46: 8302372964140905135
+      splitter bloom_47: -8341163618291152722
+      splitter bloom_48: -2325912958924054708
+      splitter bloom_49: -5164803228623313926
+      splitter bloom_5: -3036493319178480985
+      splitter bloom_50: 1501923943364967271
+      splitter bloom_51: -230552946512320458
+      splitter bloom_52: -706440018026263400
+      splitter bloom_53: 1409009610742230239
+      splitter bloom_54: 9034348892092507762
+      splitter bloom_55: -2552852426755159764
+      splitter bloom_56: -6271282960278256708
+      splitter bloom_57: 2985755713465803597
+      splitter bloom_58: 957198486299462513
+      splitter bloom_59: -1048871887766574034
+      splitter bloom_6: -1196604200835144653
+      splitter bloom_60: 149732341896139537
+      splitter bloom_61: -4206226040395940523
+      splitter bloom_62: 4415008723310454485
+      splitter bloom_63: 3010132556589033102
+      splitter bloom_64: -562531714355844675
+      splitter bloom_65: -8288170286844137834
+      splitter bloom_66: -6317303603576229096
+      splitter bloom_67: -6188969398298300691
+      splitter bloom_68: -8606016648772453710
+      splitter bloom_69: 747020673135259103
+      splitter bloom_7: -5849539194330941195
+      splitter bloom_70: 612016064692970435
+      splitter bloom_71: 6045385024433603461
+      splitter bloom_72: 2497653389284288552
+      splitter bloom_73: -4715491449915216047
+      splitter bloom_74: 7152942167044323113
+      splitter bloom_75: 6655454299310498984
+      splitter bloom_76: -5818249068264551436
+      splitter bloom_77: 934781803533247855
+      splitter bloom_78: 5275046435254488733
+      splitter bloom_79: 2979363871747028711
+      splitter bloom_8: 7288265525503498081
+      splitter bloom_80: -6518605142005515641
+      splitter bloom_81: -5238249080090793477
+      splitter bloom_82: 1699781433216193367
+      splitter bloom_83: -1226429497016548580
+      splitter bloom_84: 7601234777410079662
+      splitter bloom_85: 3246231053778766214
+      splitter bloom_86: -2747105173521658978
+      splitter bloom_87: -1726913973142538022
+      splitter bloom_88: -6303039611377249956
+      splitter bloom_89: 6872347706255588023
+      splitter bloom_9: 1703731924158151625
+      splitter bloom_90: 3116876120715975828
+      splitter bloom_91: -4621159131872574768
+      splitter bloom_92: -1061621075553425919
+      splitter bloom_93: -7459764885671481930
+      splitter bloom_94: -3840952094645461541
+      splitter bloom_95: 2076879474358539309
+      splitter bloom_96: 8251416580140580430
+      splitter bloom_97: 3491451354921566149
+      splitter bloom_98: -7877766525070751789
+      splitter bloom_99: 8768380377701870996
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: a861e2c3bceb49d4ca4d2beba133c8ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3138176120766285398
+    second: splitter shadow_0
+  - first:
+      213: 863780108151696175
+    second: splitter shadow_1
+  - first:
+      213: -8548581061516719107
+    second: splitter shadow_2
+  - first:
+      213: -1304105739772429663
+    second: splitter shadow_3
+  - first:
+      213: -1742644321699670365
+    second: splitter shadow_4
+  - first:
+      213: -4251518873182196048
+    second: splitter shadow_5
+  - first:
+      213: 5387423148948677443
+    second: splitter shadow_6
+  - first:
+      213: -4936651575893418882
+    second: splitter shadow_7
+  - first:
+      213: 8096241073720528616
+    second: splitter shadow_8
+  - first:
+      213: 3588539231737465887
+    second: splitter shadow_9
+  - first:
+      213: 5995780974917088829
+    second: splitter shadow_10
+  - first:
+      213: -4575699050458007429
+    second: splitter shadow_11
+  - first:
+      213: -8554140743086591881
+    second: splitter shadow_12
+  - first:
+      213: -807832360027907357
+    second: splitter shadow_13
+  - first:
+      213: -7602886437092237534
+    second: splitter shadow_14
+  - first:
+      213: -4348582187343782401
+    second: splitter shadow_15
+  - first:
+      213: -1361782277093089844
+    second: splitter shadow_16
+  - first:
+      213: -7155294056026392070
+    second: splitter shadow_17
+  - first:
+      213: 3096796506540882454
+    second: splitter shadow_18
+  - first:
+      213: 6518076811001762653
+    second: splitter shadow_19
+  - first:
+      213: 3406666549505544717
+    second: splitter shadow_20
+  - first:
+      213: 7600195840410430273
+    second: splitter shadow_21
+  - first:
+      213: 6680464466740559826
+    second: splitter shadow_22
+  - first:
+      213: 3607515062632393603
+    second: splitter shadow_23
+  - first:
+      213: -1349351658110089307
+    second: splitter shadow_24
+  - first:
+      213: 4299020320600111258
+    second: splitter shadow_25
+  - first:
+      213: -1840459188364183847
+    second: splitter shadow_26
+  - first:
+      213: -5243291906696347639
+    second: splitter shadow_27
+  - first:
+      213: 4137166359383565708
+    second: splitter shadow_28
+  - first:
+      213: 1962089573679898780
+    second: splitter shadow_29
+  - first:
+      213: 1698604384372694181
+    second: splitter shadow_30
+  - first:
+      213: -5207921107491938762
+    second: splitter shadow_31
+  - first:
+      213: -8764342734153209124
+    second: splitter shadow_32
+  - first:
+      213: -7187700414328527740
+    second: splitter shadow_33
+  - first:
+      213: -7882736729218261678
+    second: splitter shadow_34
+  - first:
+      213: 1395394031370679555
+    second: splitter shadow_35
+  - first:
+      213: 377454403702414193
+    second: splitter shadow_36
+  - first:
+      213: -6560338980845038273
+    second: splitter shadow_37
+  - first:
+      213: -9050367062360183121
+    second: splitter shadow_38
+  - first:
+      213: -6518426852719322354
+    second: splitter shadow_39
+  - first:
+      213: 3873909156724783054
+    second: splitter shadow_40
+  - first:
+      213: 1384253396026883290
+    second: splitter shadow_41
+  - first:
+      213: 2927557986897623235
+    second: splitter shadow_42
+  - first:
+      213: -2254711224529431518
+    second: splitter shadow_43
+  - first:
+      213: -4782332749604987465
+    second: splitter shadow_44
+  - first:
+      213: -3889057267855872997
+    second: splitter shadow_45
+  - first:
+      213: -8819343230733969210
+    second: splitter shadow_46
+  - first:
+      213: 2963852097098177023
+    second: splitter shadow_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splitter shadow_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 446
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65643e81e8a0d8b20800000000000000
+      internalID: 3138176120766285398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 447
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b2e6e8e63ccfb00800000000000000
+      internalID: 863780108151696175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 446
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb0aae11d65d5980800000000000000
+      internalID: -8548581061516719107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 446
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaf0573db2e6ede0800000000000000
+      internalID: -1304105739772429663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a65d3be832e0d7e0800000000000000
+      internalID: -1742644321699670365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 447
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be2b104c129ff4c0800000000000000
+      internalID: -4251518873182196048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 447
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3436dc76fc8f3ca40800000000000000
+      internalID: 5387423148948677443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 447
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c10071c8d7d7bb0800000000000000
+      internalID: -4936651575893418882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 382
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0a0f5c50ab5070800000000000000
+      internalID: 8096241073720528616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 383
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cc34a1b6d0dc130800000000000000
+      internalID: 3588539231737465887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 382
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d367af8970b453350800000000000000
+      internalID: 5995780974917088829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 382
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78bb5ae4f9df70c0800000000000000
+      internalID: -4575699050458007429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 318
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770b0a1e056994980800000000000000
+      internalID: -8554140743086591881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea9876afb00ac4f0800000000000000
+      internalID: -807832360027907357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 318
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f5b79311f1d7690800000000000000
+      internalID: -7602886437092237534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 318
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd58c65a8bb6a3c0800000000000000
+      internalID: -4348582187343782401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd9178eb3af91de0800000000000000
+      internalID: -1361782277093089844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 319
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9351767f943bc90800000000000000
+      internalID: -7155294056026392070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 319
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a3a02e3080afa20800000000000000
+      internalID: 3096796506540882454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 319
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53987a435cd47a50800000000000000
+      internalID: 6518076811001762653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 254
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02db7f6d29e64f20800000000000000
+      internalID: 3406666549505544717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ba01b69d1597960800000000000000
+      internalID: 7600195840410430273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 254
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfb0b2b907c5bc50800000000000000
+      internalID: 6680464466740559826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 254
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b231606d7701230800000000000000
+      internalID: 3607515062632393603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 190
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7834de0d3264de0800000000000000
+      internalID: -1349351658110089307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a983e83543039ab30800000000000000
+      internalID: 4299020320600111258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 190
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6f2fd8e106576e0800000000000000
+      internalID: -1840459188364183847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 190
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000faf7ac51c37b0800000000000000
+      internalID: -5243291906696347639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85e0cb52ea2a6930800000000000000
+      internalID: 4137166359383565708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9020b8521eba3b10800000000000000
+      internalID: 1962089573679898780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 191
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac947020b7a29710800000000000000
+      internalID: 1698604384372694181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e1fa1785fb9b7b0800000000000000
+      internalID: -5207921107491938762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaa50108bcce5680800000000000000
+      internalID: -8764342734153209124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48425042e88204c90800000000000000
+      internalID: -7187700414328527740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d550595b4ea9290800000000000000
+      internalID: -7882736729218261678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305bc897a7f6d5310800000000000000
+      internalID: 1395394031370679555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bd693c7ccfc3500800000000000000
+      internalID: 377454403702414193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f355590847ef4f4a0800000000000000
+      internalID: -6560338980845038273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 63
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae20219b13a66280800000000000000
+      internalID: -9050367062360183121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b1c454055e985a0800000000000000
+      internalID: -6518426852719322354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7b6ba6ad3e2c530800000000000000
+      internalID: 3873909156724783054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 64
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc7f4d212bd53310800000000000000
+      internalID: 1384253396026883290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8f36c6a76c0a820800000000000000
+      internalID: 2927557986897623235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_43
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22456d65618a5b0e0800000000000000
+      internalID: -2254711224529431518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd31eb3bdb1adb0800000000000000
+      internalID: -4782332749604987465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cac4e150b470ac0800000000000000
+      internalID: -3889057267855872997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81bdbfe066b9580800000000000000
+      internalID: -8819343230733969210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splitter shadow_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9555677c7b12920800000000000000
+      internalID: 2963852097098177023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      splitter shadow_0: 3138176120766285398
+      splitter shadow_1: 863780108151696175
+      splitter shadow_10: 5995780974917088829
+      splitter shadow_11: -4575699050458007429
+      splitter shadow_12: -8554140743086591881
+      splitter shadow_13: -807832360027907357
+      splitter shadow_14: -7602886437092237534
+      splitter shadow_15: -4348582187343782401
+      splitter shadow_16: -1361782277093089844
+      splitter shadow_17: -7155294056026392070
+      splitter shadow_18: 3096796506540882454
+      splitter shadow_19: 6518076811001762653
+      splitter shadow_2: -8548581061516719107
+      splitter shadow_20: 3406666549505544717
+      splitter shadow_21: 7600195840410430273
+      splitter shadow_22: 6680464466740559826
+      splitter shadow_23: 3607515062632393603
+      splitter shadow_24: -1349351658110089307
+      splitter shadow_25: 4299020320600111258
+      splitter shadow_26: -1840459188364183847
+      splitter shadow_27: -5243291906696347639
+      splitter shadow_28: 4137166359383565708
+      splitter shadow_29: 1962089573679898780
+      splitter shadow_3: -1304105739772429663
+      splitter shadow_30: 1698604384372694181
+      splitter shadow_31: -5207921107491938762
+      splitter shadow_32: -8764342734153209124
+      splitter shadow_33: -7187700414328527740
+      splitter shadow_34: -7882736729218261678
+      splitter shadow_35: 1395394031370679555
+      splitter shadow_36: 377454403702414193
+      splitter shadow_37: -6560338980845038273
+      splitter shadow_38: -9050367062360183121
+      splitter shadow_39: -6518426852719322354
+      splitter shadow_4: -1742644321699670365
+      splitter shadow_40: 3873909156724783054
+      splitter shadow_41: 1384253396026883290
+      splitter shadow_42: 2927557986897623235
+      splitter shadow_43: -2254711224529431518
+      splitter shadow_44: -4782332749604987465
+      splitter shadow_45: -3889057267855872997
+      splitter shadow_46: -8819343230733969210
+      splitter shadow_47: 2963852097098177023
+      splitter shadow_5: -4251518873182196048
+      splitter shadow_6: 5387423148948677443
+      splitter shadow_7: -4936651575893418882
+      splitter shadow_8: 8096241073720528616
+      splitter shadow_9: 3588539231737465887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

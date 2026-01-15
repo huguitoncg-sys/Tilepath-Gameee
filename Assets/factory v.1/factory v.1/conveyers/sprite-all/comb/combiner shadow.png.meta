@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: d2ac1b1efe968394d8b5a87c1b422f85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7242327854090672921
+    second: combiner shadow_0
+  - first:
+      213: 62380877147852525
+    second: combiner shadow_1
+  - first:
+      213: -6811949698609058795
+    second: combiner shadow_2
+  - first:
+      213: -4854191684232531866
+    second: combiner shadow_3
+  - first:
+      213: -1621935083338639897
+    second: combiner shadow_4
+  - first:
+      213: -1427949125474924238
+    second: combiner shadow_5
+  - first:
+      213: 6512547339068099654
+    second: combiner shadow_6
+  - first:
+      213: 8368053331957970147
+    second: combiner shadow_7
+  - first:
+      213: -3530822720935322350
+    second: combiner shadow_8
+  - first:
+      213: 437621042913478601
+    second: combiner shadow_9
+  - first:
+      213: -8983165799124042564
+    second: combiner shadow_10
+  - first:
+      213: 8497837869023194604
+    second: combiner shadow_11
+  - first:
+      213: -734472650067174504
+    second: combiner shadow_12
+  - first:
+      213: -4674302912946964839
+    second: combiner shadow_13
+  - first:
+      213: -6148101046374311571
+    second: combiner shadow_14
+  - first:
+      213: -8422871365876630021
+    second: combiner shadow_15
+  - first:
+      213: -3380349311267155396
+    second: combiner shadow_16
+  - first:
+      213: -8659909126144469362
+    second: combiner shadow_17
+  - first:
+      213: 8523922720577436695
+    second: combiner shadow_18
+  - first:
+      213: 4504719598802960250
+    second: combiner shadow_19
+  - first:
+      213: 8058075131644354287
+    second: combiner shadow_20
+  - first:
+      213: -3368136563694557517
+    second: combiner shadow_21
+  - first:
+      213: -3865229040317808509
+    second: combiner shadow_22
+  - first:
+      213: 8017367164387644923
+    second: combiner shadow_23
+  - first:
+      213: -496883407280641112
+    second: combiner shadow_24
+  - first:
+      213: -2499792352069865161
+    second: combiner shadow_25
+  - first:
+      213: 147033441601336504
+    second: combiner shadow_26
+  - first:
+      213: 5941834156316104502
+    second: combiner shadow_27
+  - first:
+      213: 2665393975211374563
+    second: combiner shadow_28
+  - first:
+      213: -7681549627668586928
+    second: combiner shadow_29
+  - first:
+      213: 3050883829355587393
+    second: combiner shadow_30
+  - first:
+      213: 4311710564018180343
+    second: combiner shadow_31
+  - first:
+      213: -7898402800489474698
+    second: combiner shadow_32
+  - first:
+      213: 7545496264998989221
+    second: combiner shadow_33
+  - first:
+      213: 8425079444435764763
+    second: combiner shadow_34
+  - first:
+      213: 5128618128176954310
+    second: combiner shadow_35
+  - first:
+      213: 357073564950696226
+    second: combiner shadow_36
+  - first:
+      213: 5373391701999796201
+    second: combiner shadow_37
+  - first:
+      213: -3651730216951483918
+    second: combiner shadow_38
+  - first:
+      213: 6687766459209022713
+    second: combiner shadow_39
+  - first:
+      213: -5498117594595008620
+    second: combiner shadow_40
+  - first:
+      213: -6396377683421149314
+    second: combiner shadow_41
+  - first:
+      213: 7991741270416547188
+    second: combiner shadow_42
+  - first:
+      213: -7646059570083209117
+    second: combiner shadow_43
+  - first:
+      213: -4235271760488384818
+    second: combiner shadow_44
+  - first:
+      213: -2579924277463057462
+    second: combiner shadow_45
+  - first:
+      213: 743026929789251334
+    second: combiner shadow_46
+  - first:
+      213: 8153264393896838108
+    second: combiner shadow_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: combiner shadow_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 446
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bddf1dfcae18460800000000000000
+      internalID: 7242327854090672921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 447
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deecc27c31f9dd000800000000000000
+      internalID: 62380877147852525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 446
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ce39227d71771a0800000000000000
+      internalID: -6811949698609058795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 446
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603aadb16272acb0800000000000000
+      internalID: -4854191684232531866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 447
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e55bd492aabd79e0800000000000000
+      internalID: -1621935083338639897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 447
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239ccb206d7ee2ce0800000000000000
+      internalID: -1427949125474924238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 447
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cc118cc47316a50800000000000000
+      internalID: 6512547339068099654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 447
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f0e86b2c412470800000000000000
+      internalID: 8368053331957970147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 382
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d95c1417ffffec0800000000000000
+      internalID: -3530822720935322350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 383
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c70819150eb21600800000000000000
+      internalID: 437621042913478601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 382
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcf5c0fc42655380800000000000000
+      internalID: -8983165799124042564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 382
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced6df5b4826ee570800000000000000
+      internalID: 8497837869023194604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 318
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b91832401aec5f0800000000000000
+      internalID: -734472650067174504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996f835244a812fb0800000000000000
+      internalID: -4674302912946964839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 318
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69d6af1cae8daaa0800000000000000
+      internalID: -6148101046374311571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 318
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd3d187e13fb1b80800000000000000
+      internalID: -8422871365876630021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 319
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c325f2516369611d0800000000000000
+      internalID: -3380349311267155396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 319
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86defc2882d1d780800000000000000
+      internalID: -8659909126144469362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 319
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c36ec7d8e0b4670800000000000000
+      internalID: 8523922720577436695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 319
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ff36bab9af38e30800000000000000
+      internalID: 4504719598802960250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 254
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee121383a804df60800000000000000
+      internalID: 8058075131644354287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b62bf5f3a9f141d0800000000000000
+      internalID: -3368136563694557517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 254
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380455caaa2fb5ac0800000000000000
+      internalID: -3865229040317808509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 254
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5d43b45f8634f60800000000000000
+      internalID: 8017367164387644923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 190
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab60467c27ba19f0800000000000000
+      internalID: -496883407280641112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73133aaa914fe4dd0800000000000000
+      internalID: -2499792352069865161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 190
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b430c8d22e5a0200800000000000000
+      internalID: 147033441601336504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 190
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63711891fa2a57250800000000000000
+      internalID: 5941834156316104502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 191
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7b0f6d2b16df420800000000000000
+      internalID: 2665393975211374563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 191
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e974eef47a56590800000000000000
+      internalID: -7681549627668586928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 191
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14729b3bdaae65a20800000000000000
+      internalID: 3050883829355587393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f05a9ed9e546db30800000000000000
+      internalID: 4311710564018180343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675dfdf108c336290800000000000000
+      internalID: -7898402800489474698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad2d4110ecf6b860800000000000000
+      internalID: 7545496264998989221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 127
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b160a02ed15ebe470800000000000000
+      internalID: 8425079444435764763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbbd96d3038c2740800000000000000
+      internalID: 5128618128176954310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2219195f38494f400800000000000000
+      internalID: 357073564950696226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efbab4984f129a40800000000000000
+      internalID: 5373391701999796201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 63
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1fb0327b2725dc0800000000000000
+      internalID: -3651730216951483918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcfced4928bfcc50800000000000000
+      internalID: 6687766459209022713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 64
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fd6d09d23c2b3b0800000000000000
+      internalID: -5498117594595008620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 64
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77427ae2608b37a0800000000000000
+      internalID: -6396377683421149314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 64
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dd108e75e58ee60800000000000000
+      internalID: 7991741270416547188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_43
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 64
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360e6b1e45db3e590800000000000000
+      internalID: -7646059570083209117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6b8d4f5ca4935c0800000000000000
+      internalID: -4235271760488384818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7866e984423cd0800000000000000
+      internalID: -2579924277463057462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f23a05e03cf4a00800000000000000
+      internalID: 743026929789251334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: combiner shadow_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3cf06b4c6362170800000000000000
+      internalID: 8153264393896838108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      combiner shadow_0: 7242327854090672921
+      combiner shadow_1: 62380877147852525
+      combiner shadow_10: -8983165799124042564
+      combiner shadow_11: 8497837869023194604
+      combiner shadow_12: -734472650067174504
+      combiner shadow_13: -4674302912946964839
+      combiner shadow_14: -6148101046374311571
+      combiner shadow_15: -8422871365876630021
+      combiner shadow_16: -3380349311267155396
+      combiner shadow_17: -8659909126144469362
+      combiner shadow_18: 8523922720577436695
+      combiner shadow_19: 4504719598802960250
+      combiner shadow_2: -6811949698609058795
+      combiner shadow_20: 8058075131644354287
+      combiner shadow_21: -3368136563694557517
+      combiner shadow_22: -3865229040317808509
+      combiner shadow_23: 8017367164387644923
+      combiner shadow_24: -496883407280641112
+      combiner shadow_25: -2499792352069865161
+      combiner shadow_26: 147033441601336504
+      combiner shadow_27: 5941834156316104502
+      combiner shadow_28: 2665393975211374563
+      combiner shadow_29: -7681549627668586928
+      combiner shadow_3: -4854191684232531866
+      combiner shadow_30: 3050883829355587393
+      combiner shadow_31: 4311710564018180343
+      combiner shadow_32: -7898402800489474698
+      combiner shadow_33: 7545496264998989221
+      combiner shadow_34: 8425079444435764763
+      combiner shadow_35: 5128618128176954310
+      combiner shadow_36: 357073564950696226
+      combiner shadow_37: 5373391701999796201
+      combiner shadow_38: -3651730216951483918
+      combiner shadow_39: 6687766459209022713
+      combiner shadow_4: -1621935083338639897
+      combiner shadow_40: -5498117594595008620
+      combiner shadow_41: -6396377683421149314
+      combiner shadow_42: 7991741270416547188
+      combiner shadow_43: -7646059570083209117
+      combiner shadow_44: -4235271760488384818
+      combiner shadow_45: -2579924277463057462
+      combiner shadow_46: 743026929789251334
+      combiner shadow_47: 8153264393896838108
+      combiner shadow_5: -1427949125474924238
+      combiner shadow_6: 6512547339068099654
+      combiner shadow_7: 8368053331957970147
+      combiner shadow_8: -3530822720935322350
+      combiner shadow_9: 437621042913478601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -25,10 +25,17 @@ public class BoardManager : MonoBehaviour
 
     public bool IsComplete => visitedCount >= openTileCount;
 
-    private void Awake()
+    private void Start()
     {
+        // If player selected a level from the menu, use it.
+        if (GameManager.Instance != null && GameManager.Instance.SelectedLevel != null)
+        {
+            level = GameManager.Instance.SelectedLevel;
+        }
+
         BuildLevel();
     }
+
 
     public void BuildLevel()
     {

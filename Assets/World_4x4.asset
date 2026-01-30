@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a911d1bdcd7aa5f419bfdc012d1f91f6, type: 3}
+  m_Name: World_4x4
+  m_EditorClassIdentifier: Assembly-CSharp::WorldData
+  worldName: 4x4
+  gridSize: 0
+  levels:
+  - {fileID: 11400000, guid: efffb33da036f914081032c8b39dc63e, type: 2}
+  - {fileID: 11400000, guid: f117a7bbd28a8a448924ceedd021d4e1, type: 2}
+  - {fileID: 11400000, guid: 87442c48989622e49b0a22cb9f94dc47, type: 2}
+  - {fileID: 11400000, guid: 1a525adf7057cc246a741c560a1401b9, type: 2}
+  - {fileID: 11400000, guid: 8cd251b55ffdb6d46929ab780e0c301d, type: 2}
+  - {fileID: 11400000, guid: fa5db95ad8745b845af121efbdf196fc, type: 2}

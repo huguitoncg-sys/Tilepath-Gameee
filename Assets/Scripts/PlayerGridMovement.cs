@@ -118,4 +118,30 @@ public class PlayerGridMover : MonoBehaviour
         history.Clear();
         history.Push(pos);
     }
+
+    // ✅ THIS is what WinUIController should call after NextLevel
+    public void ResetForNewLevel(BoardManager newBoard)
+    {
+        board = newBoard;
+
+        hasWon = false;
+        if (winUI != null) winUI.Hide();
+
+        // reset position + history to the NEW start
+        pos = board.StartPos;
+        transform.position = board.CellToWorldCenter(pos);
+
+        history.Clear();
+        history.Push(pos);
+
+        // If you use Rigidbody2D, clear leftover physics
+        var rb = GetComponent<Rigidbody2D>();
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+            rb.angularVelocity = 0f;
+            rb.simulated = true;
+            rb.WakeUp();
+        }
+    }
 }

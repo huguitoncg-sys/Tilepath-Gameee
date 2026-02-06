@@ -919,6 +919,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37af69e973c336a438bf6c335f6aab21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
+  SelectedLevel: {fileID: 0}
+  levelOrder:
+  - {fileID: 11400000, guid: efffb33da036f914081032c8b39dc63e, type: 2}
+  - {fileID: 11400000, guid: f117a7bbd28a8a448924ceedd021d4e1, type: 2}
+  - {fileID: 11400000, guid: 87442c48989622e49b0a22cb9f94dc47, type: 2}
+  - {fileID: 11400000, guid: 1a525adf7057cc246a741c560a1401b9, type: 2}
+  - {fileID: 11400000, guid: 8cd251b55ffdb6d46929ab780e0c301d, type: 2}
+  - {fileID: 11400000, guid: fa5db95ad8745b845af121efbdf196fc, type: 2}
 --- !u!4 &1838014628
 Transform:
   m_ObjectHideFlags: 0

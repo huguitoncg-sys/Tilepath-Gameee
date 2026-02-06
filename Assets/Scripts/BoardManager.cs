@@ -28,9 +28,16 @@ public class BoardManager : MonoBehaviour
     private void Start()
     {
         // If player selected a level from the menu, use it.
-        if (GameManager.Instance != null && GameManager.Instance.SelectedLevel != null)
+        if (GameManager.Instance != null)
         {
-            level = GameManager.Instance.SelectedLevel;
+            if (GameManager.Instance.SelectedLevel != null)
+                level = GameManager.Instance.SelectedLevel;
+            else if (GameManager.Instance.levelOrder.Count > 0)
+            {
+                // Default to first level if nothing selected
+                GameManager.Instance.SelectedLevel = GameManager.Instance.levelOrder[0];
+                level = GameManager.Instance.SelectedLevel;
+            }
         }
 
         BuildLevel();
@@ -82,8 +89,22 @@ public class BoardManager : MonoBehaviour
             }
         }
 
-        // Count start tile as visited (like your Java version marks start as true)
+        // Count start tile as visited
         Visit(StartPos);
+
+        // Move player to start position
+        GameObject playerObj = GameObject.FindWithTag("Player");
+        if (playerObj != null)
+        {
+            playerObj.transform.position = CellToWorldCenter(StartPos);
+        }
+        else
+        {
+            Debug.LogWarning("Player with tag 'Player' not found. Make sure your Player GameObject has tag Player.");
+        }
+
+        
+        
     }
 
     public bool InBounds(Vector2Int p)

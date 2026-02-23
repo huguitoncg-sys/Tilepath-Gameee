@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a911d1bdcd7aa5f419bfdc012d1f91f6, type: 3}
+  m_Name: World_6x6
+  m_EditorClassIdentifier: Assembly-CSharp::WorldData
+  worldName: 6x6
+  gridSize: 0
+  levels:
+  - {fileID: 11400000, guid: 27266092f7b6a5048a4dba2c2bb3a07b, type: 2}
+  - {fileID: 11400000, guid: ce52ffee76ed4f94cb66be75ab9a7641, type: 2}
+  - {fileID: 11400000, guid: 06efeafca56b712409ecbd23313cb268, type: 2}
+  - {fileID: 11400000, guid: 7f9e477145419ce4798884dac03c18b7, type: 2}
+  - {fileID: 11400000, guid: 7d8dd26a31872b846b3c729c722b7710, type: 2}
+  - {fileID: 11400000, guid: 38b1d0c6e4c4745419f3f7381094d180, type: 2}
+  - {fileID: 11400000, guid: ec62ab73294c9de4481d933dda887dc5, type: 2}
+  - {fileID: 11400000, guid: ab1ac5e8768b592408af06b8dd5e6c4e, type: 2}
+  - {fileID: 11400000, guid: c9f9f4d32fb820d46a7f14cbf25ec696, type: 2}
+  - {fileID: 11400000, guid: e3ad3bea041581749b91dc9fa821a258, type: 2}
+  - {fileID: 11400000, guid: 57f4c1c52a9c1244a9057272f34b32b2, type: 2}
+  - {fileID: 11400000, guid: b2cc2c174e453c545b918c65dd99ea8c, type: 2}

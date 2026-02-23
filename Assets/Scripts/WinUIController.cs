@@ -58,43 +58,43 @@ public class WinUIController : MonoBehaviour
     }
 
     public void NextLevel()
+{
+    // ✅ Use Hide() so isShowing resets properly
+    Hide();
+
+    if (GameManager.Instance == null)
     {
-        // ✅ Use Hide() so isShowing resets properly
-        Hide();
-
-        if (GameManager.Instance == null)
-        {
-            Debug.LogError("No GameManager found.");
-            return;
-        }
-
-        // Advance to next ScriptableObject level
-        if (!GameManager.Instance.TryAdvanceToNextLevel())
-        {
-            SceneManager.LoadScene(mainMenuSceneName);
-            return;
-        }
-
-        // Rebuild the SAME gameplay scene with the new LevelData
-        BoardManager bm = FindObjectOfType<BoardManager>();
-        if (bm == null)
-        {
-            Debug.LogError("No BoardManager found.");
-            return;
-        }
-
-        bm.level = GameManager.Instance.SelectedLevel;
-        bm.BuildLevel();
-
-        // ✅ Reset the player’s internal state so movement works again
-        PlayerGridMover player = FindObjectOfType<PlayerGridMover>();
-        if (player != null)
-        {
-            player.ResetForNewLevel(bm);
-        }
-        else
-        {
-            Debug.LogWarning("No PlayerGridMover found in scene.");
-        }
+        Debug.LogError("No GameManager found.");
+        return;
     }
+
+    // Advance to next ScriptableObject level
+    if (!GameManager.Instance.TryAdvanceToNextLevel())
+    {
+        SceneManager.LoadScene(mainMenuSceneName);
+        return;
+    }
+
+    // Rebuild the SAME gameplay scene with the new LevelData
+    BoardManager bm = FindObjectOfType<BoardManager>();
+    if (bm == null)
+    {
+        Debug.LogError("No BoardManager found.");
+        return;
+    }
+
+    bm.level = GameManager.Instance.SelectedLevel;
+    bm.BuildLevel();
+
+    // ✅ Reset the player’s internal state so movement works again
+    PlayerGridMover player = FindObjectOfType<PlayerGridMover>();
+    if (player != null)
+    {
+        player.ResetForNewLevel(bm);
+    }
+    else
+    {
+        Debug.LogWarning("No PlayerGridMover found in scene.");
+    }
+}
 }

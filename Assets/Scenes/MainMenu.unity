@@ -210,6 +210,7 @@ GameObject:
   - component: {fileID: 623465835}
   - component: {fileID: 623465834}
   - component: {fileID: 623465833}
+  - component: {fileID: 623465836}
   m_Layer: 5
   m_Name: Quit Button
   m_TagString: Untagged
@@ -331,6 +332,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 623465831}
   m_CullTransparentMesh: 1
+--- !u!114 &623465836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 623465831}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c554866fb921c1e46b4465dd84545811, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HoverScale
+  hoverScale: 1.12
+  duration: 0.12
+  alsoOnSelect: 1
 --- !u!1 &853870519
 GameObject:
   m_ObjectHideFlags: 0
@@ -927,6 +943,24 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 1a525adf7057cc246a741c560a1401b9, type: 2}
   - {fileID: 11400000, guid: 8cd251b55ffdb6d46929ab780e0c301d, type: 2}
   - {fileID: 11400000, guid: fa5db95ad8745b845af121efbdf196fc, type: 2}
+  - {fileID: 11400000, guid: 69d843aea4bb4994693d265a9bbb98b9, type: 2}
+  - {fileID: 11400000, guid: 7af4bb574e907574eba9a159156a3d3f, type: 2}
+  - {fileID: 11400000, guid: 77f4df9851f265e4195179b820db182f, type: 2}
+  - {fileID: 11400000, guid: dc9c514c5390c33458a2920cb723dca9, type: 2}
+  - {fileID: 11400000, guid: 6b3b8add02c47104bbd6ae91a61b4af5, type: 2}
+  - {fileID: 11400000, guid: de4b990b8e74d764b9bc7d945b3975c1, type: 2}
+  - {fileID: 11400000, guid: 27266092f7b6a5048a4dba2c2bb3a07b, type: 2}
+  - {fileID: 11400000, guid: ce52ffee76ed4f94cb66be75ab9a7641, type: 2}
+  - {fileID: 11400000, guid: 06efeafca56b712409ecbd23313cb268, type: 2}
+  - {fileID: 11400000, guid: 7f9e477145419ce4798884dac03c18b7, type: 2}
+  - {fileID: 11400000, guid: 7d8dd26a31872b846b3c729c722b7710, type: 2}
+  - {fileID: 11400000, guid: 38b1d0c6e4c4745419f3f7381094d180, type: 2}
+  - {fileID: 11400000, guid: ec62ab73294c9de4481d933dda887dc5, type: 2}
+  - {fileID: 11400000, guid: ab1ac5e8768b592408af06b8dd5e6c4e, type: 2}
+  - {fileID: 11400000, guid: c9f9f4d32fb820d46a7f14cbf25ec696, type: 2}
+  - {fileID: 11400000, guid: e3ad3bea041581749b91dc9fa821a258, type: 2}
+  - {fileID: 11400000, guid: 57f4c1c52a9c1244a9057272f34b32b2, type: 2}
+  - {fileID: 11400000, guid: b2cc2c174e453c545b918c65dd99ea8c, type: 2}
 --- !u!4 &1838014628
 Transform:
   m_ObjectHideFlags: 0
@@ -954,6 +988,7 @@ GameObject:
   - component: {fileID: 2001705287}
   - component: {fileID: 2001705286}
   - component: {fileID: 2001705285}
+  - component: {fileID: 2001705288}
   m_Layer: 5
   m_Name: Start Button
   m_TagString: Untagged
@@ -1075,6 +1110,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2001705283}
   m_CullTransparentMesh: 1
+--- !u!114 &2001705288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2001705283}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c554866fb921c1e46b4465dd84545811, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HoverScale
+  hoverScale: 1.12
+  duration: 0.12
+  alsoOnSelect: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

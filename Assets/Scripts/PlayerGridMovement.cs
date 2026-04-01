@@ -8,11 +8,21 @@ public class PlayerGridMover : MonoBehaviour
     public WinUIController winUI;
 
     [Header("Controls")]
-    [Tooltip("Press this to undo one step (like Q in your Java file).")]
+    [Tooltip("Press this to undo one step.")]
     public KeyCode undoKey = KeyCode.Q;
 
     [Tooltip("Press this to restart the level.")]
     public KeyCode restartKey = KeyCode.R;
+
+    [Header("Audio")]
+    [Tooltip("AudioSource used to play the movement sound.")]
+    public AudioSource audioSource;
+
+    [Tooltip("Sound effect that plays whenever the snake moves successfully.")]
+    public AudioClip moveClip;
+
+    [Range(0f, 1f)]
+    public float moveVolume = 1f;
 
     private Vector2Int pos;
     private readonly Stack<Vector2Int> history = new Stack<Vector2Int>();
@@ -22,6 +32,14 @@ public class PlayerGridMover : MonoBehaviour
     {
         if (board == null) board = FindObjectOfType<BoardManager>();
         if (winUI == null) winUI = FindObjectOfType<WinUIController>();
+        if (audioSource == null) audioSource = GetComponent<AudioSource>();
+
+        // Make sure the AudioSource is set up for sound effects
+        if (audioSource != null)
+        {
+            audioSource.playOnAwake = false;
+            audioSource.loop = false;
+        }
 
         if (winUI != null) winUI.Hide();
 
@@ -32,30 +50,34 @@ public class PlayerGridMover : MonoBehaviour
     {
         if (board == null) return;
 
-        // Restart works anytime (even after winning)
+        // Restart works anytime
         if (Input.GetKeyDown(restartKey))
         {
             RestartLevel();
             return;
         }
 
-        // Allow undo even after winning (undo will hide the win UI)
+        // Undo works anytime
         if (Input.GetKeyDown(undoKey))
         {
             Undo();
             return;
         }
 
-        // If you won, freeze movement until restart (or undo)
+        // Stop movement after win
         if (hasWon)
             return;
 
         Vector2Int dir = Vector2Int.zero;
 
-        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)) dir = Vector2Int.up;
-        if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow)) dir = Vector2Int.down;
-        if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow)) dir = Vector2Int.left;
-        if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow)) dir = Vector2Int.right;
+        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
+            dir = Vector2Int.up;
+        else if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
+            dir = Vector2Int.down;
+        else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
+            dir = Vector2Int.left;
+        else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
+            dir = Vector2Int.right;
 
         if (dir != Vector2Int.zero)
             TryMove(dir);
@@ -65,15 +87,21 @@ public class PlayerGridMover : MonoBehaviour
     {
         Vector2Int next = pos + dir;
 
+        // Do nothing if move is invalid
         if (!board.CanStep(next))
             return;
 
+        // Update player position
         pos = next;
         history.Push(pos);
 
         board.Visit(pos);
         transform.position = board.CellToWorldCenter(pos);
 
+        // Play move sound after successful move
+        PlayMoveSound();
+
+        // Check win
         if (board.IsComplete)
         {
             hasWon = true;
@@ -82,18 +110,24 @@ public class PlayerGridMover : MonoBehaviour
         }
     }
 
+    private void PlayMoveSound()
+    {
+        if (audioSource != null && moveClip != null)
+        {
+            audioSource.PlayOneShot(moveClip, moveVolume);
+        }
+    }
+
     private void Undo()
     {
-        if (history.Count <= 1) return; // keep start
+        if (history.Count <= 1) return; // keep starting position
 
-        // current position gets unvisited
         Vector2Int current = history.Pop();
         board.Unvisit(current);
 
         pos = history.Peek();
         transform.position = board.CellToWorldCenter(pos);
 
-        // If we had a win screen up, hide it once the board isn't complete anymore
         if (hasWon && !board.IsComplete)
         {
             hasWon = false;
@@ -119,7 +153,6 @@ public class PlayerGridMover : MonoBehaviour
         history.Push(pos);
     }
 
-    // ✅ THIS is what WinUIController should call after NextLevel
     public void ResetForNewLevel(BoardManager newBoard)
     {
         board = newBoard;
@@ -127,14 +160,12 @@ public class PlayerGridMover : MonoBehaviour
         hasWon = false;
         if (winUI != null) winUI.Hide();
 
-        // reset position + history to the NEW start
         pos = board.StartPos;
         transform.position = board.CellToWorldCenter(pos);
 
         history.Clear();
         history.Push(pos);
 
-        // If you use Rigidbody2D, clear leftover physics
         var rb = GetComponent<Rigidbody2D>();
         if (rb != null)
         {

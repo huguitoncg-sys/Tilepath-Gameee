@@ -11,11 +11,11 @@ public class BoardManager : MonoBehaviour
     public Tilemap floorTilemap;
     public Tilemap wallsTilemap;
 
-    // NEW: draw the snake on its own tilemap (set Order in Layer higher than floor)
+    // draw the snake on its own tilemap (set Order in Layer higher than floor)
     public Tilemap snakeTilemap;
 
     [Header("Board Tiles")]
-    public TileBase floorTile;   // your plain blue/background tile
+    public TileBase floorTile;
     public TileBase wallTile;
 
     [Header("Snake Tiles (Tile assets)")]
@@ -23,6 +23,12 @@ public class BoardManager : MonoBehaviour
     public TileBase snakeBodyStraightTile;
     public TileBase snakeBodyTurnTile;
     public TileBase snakeTailTile;
+
+    [Header("Collectibles")]
+    public GameObject applePrefab;
+
+    private GameObject currentApple;
+    private Vector2Int fruitCell = new Vector2Int(-1, -1);
 
     public Vector2Int StartPos { get; private set; }
 
@@ -32,7 +38,6 @@ public class BoardManager : MonoBehaviour
     private int openTileCount;
     private int visitedCount;
 
-    // Track the exact order the player visited cells (the snake body)
     private readonly List<Vector3Int> path = new List<Vector3Int>();
 
     public bool IsComplete => visitedCount >= openTileCount;
@@ -41,28 +46,50 @@ public class BoardManager : MonoBehaviour
 
     private void Start()
     {
-        // If player selected a level from the menu, use it.
         if (GameManager.Instance != null)
         {
-            if (GameManager.Instance.SelectedLevel != null)
-                level = GameManager.Instance.SelectedLevel;
-            else if (GameManager.Instance.levelOrder.Count > 0)
-            {
-                GameManager.Instance.SelectedLevel = GameManager.Instance.levelOrder[0];
-                level = GameManager.Instance.SelectedLevel;
-            }
-        }
+            GameManager.Instance.OnLevelChanged += HandleLevelChanged;
 
+            if (GameManager.Instance.SelectedLevel == null && GameManager.Instance.levelOrder.Count > 0)
+                GameManager.Instance.SelectLevel(GameManager.Instance.levelOrder[0]);
+
+            if (GameManager.Instance.SelectedLevel != null)
+                HandleLevelChanged();
+        }
+        else
+        {
+            BuildLevel();
+        }
+    }
+
+    private void OnDestroy()
+    {
+        if (GameManager.Instance != null)
+            GameManager.Instance.OnLevelChanged -= HandleLevelChanged;
+    }
+
+    private void HandleLevelChanged()
+    {
+        level = GameManager.Instance.SelectedLevel;
         BuildLevel();
     }
 
     public void BuildLevel()
     {
+        Debug.Log($"BuildLevel: {level.name}  size={level.Width}x{level.Height}  applePrefab={(applePrefab ? applePrefab.name : "NULL")}");
         if (level == null) { Debug.LogError("No LevelData assigned."); return; }
 
+        // Clear old tiles
         floorTilemap.ClearAllTiles();
         wallsTilemap.ClearAllTiles();
         if (snakeTilemap != null) snakeTilemap.ClearAllTiles();
+
+        // Clear old apple (important when switching levels in same scene)
+        if (currentApple != null)
+        {
+            Destroy(currentApple);
+            currentApple = null;
+        }
 
         int w = level.Width;
         int h = level.Height;
@@ -74,6 +101,9 @@ public class BoardManager : MonoBehaviour
         visitedCount = 0;
         StartPos = new Vector2Int(0, 0);
 
+        // reset fruit cell each build
+        fruitCell = new Vector2Int(-1, -1);
+
         // level.rows is top->bottom; Tilemap y is bottom->top
         for (int row = 0; row < h; row++)
         {
@@ -82,7 +112,7 @@ public class BoardManager : MonoBehaviour
             for (int x = 0; x < w; x++)
             {
                 char c = line[x];
-                int y = (h - 1) - row; // flip y so row 0 is top
+                int y = (h - 1) - row;
 
                 Vector3Int cell = new Vector3Int(x, y, 0);
 
@@ -93,12 +123,21 @@ public class BoardManager : MonoBehaviour
                 }
                 else
                 {
-                    // open tile ('.' or 'S')
+                    // open tile ('.' or 'S' or 'F')
                     floorTilemap.SetTile(cell, floorTile);
                     openTileCount++;
 
                     if (c == 'S')
                         StartPos = new Vector2Int(x, y);
+
+                    if (c == 'F')
+                        fruitCell = new Vector2Int(x, y);
+                        if (c == 'F')
+                        {
+                            fruitCell = new Vector2Int(x, y);
+                            Debug.Log($"FOUND F at cell ({fruitCell.x},{fruitCell.y}) in level {level.name}");
+                            Debug.Log($"Spawning apple? fruitCell={fruitCell} applePrefab={(applePrefab ? "OK" : "NULL")}");
+                        }
                 }
             }
         }
@@ -119,6 +158,17 @@ public class BoardManager : MonoBehaviour
         {
             Debug.LogWarning("Player with tag 'Player' not found. Make sure your Player GameObject has tag Player.");
         }
+
+        SpawnFruitIfPresent();
+    }
+
+    private void SpawnFruitIfPresent()
+    {
+        if (applePrefab == null) return;
+        if (fruitCell.x < 0) return; // no 'F' in this level
+
+        Vector3 spawnPos = CellToWorldCenter(fruitCell);
+        currentApple = Instantiate(applePrefab, spawnPos, Quaternion.identity);
     }
 
     public bool InBounds(Vector2Int p)
@@ -138,11 +188,6 @@ public class BoardManager : MonoBehaviour
         visited[p.x, p.y] = true;
         visitedCount++;
 
-        // IMPORTANT CHANGE:
-        // Do NOT paint red/visited tiles onto the floor anymore.
-        // Floor stays as the normal floorTile.
-        // Snake overlay draws on snakeTilemap instead.
-
         Vector3Int cell = new Vector3Int(p.x, p.y, 0);
         path.Add(cell);
 
@@ -156,10 +201,8 @@ public class BoardManager : MonoBehaviour
         visited[p.x, p.y] = false;
         visitedCount--;
 
-        // Restore floor tile (optional, but keeps things consistent)
         floorTilemap.SetTile(new Vector3Int(p.x, p.y, 0), floorTile);
 
-        // Remove from the path if present (handles undo/backtracking)
         Vector3Int cell = new Vector3Int(p.x, p.y, 0);
         int idx = path.LastIndexOf(cell);
         if (idx >= 0)
@@ -187,14 +230,13 @@ public class BoardManager : MonoBehaviour
 
         if (path.Count == 0) return;
 
-        // If only one cell visited: draw head only
         if (path.Count == 1)
         {
             Place(path[0], snakeHeadTile, 0);
             return;
         }
 
-        // Tail (points toward the next segment)
+        // Tail
         {
             var tailPos = path[0];
             var nextPos = path[1];
@@ -202,7 +244,7 @@ public class BoardManager : MonoBehaviour
             Place(tailPos, snakeTailTile, RotationFor(dir));
         }
 
-        // Body (middle segments)
+        // Body
         for (int i = 1; i < path.Count - 1; i++)
         {
             var prev = path[i - 1];
@@ -214,7 +256,6 @@ public class BoardManager : MonoBehaviour
 
             if (IsStraight(inDir, outDir))
             {
-                // If sprite is horizontal at 0°, rotate 90° for vertical
                 int rot = (inDir == Dir.Left || inDir == Dir.Right) ? 0 : 90;
                 Place(cur, snakeBodyStraightTile, rot);
             }
@@ -225,7 +266,7 @@ public class BoardManager : MonoBehaviour
             }
         }
 
-        // Head (faces from previous segment toward head)
+        // Head
         {
             var headPos = path[path.Count - 1];
             var prevPos = path[path.Count - 2];
@@ -249,7 +290,6 @@ public class BoardManager : MonoBehaviour
                (a == Dir.Up && b == Dir.Down) || (a == Dir.Down && b == Dir.Up);
     }
 
-    // Assumes your head/tail/straight sprites face RIGHT at 0°.
     private int RotationFor(Dir d)
     {
         return d switch
@@ -262,14 +302,12 @@ public class BoardManager : MonoBehaviour
         };
     }
 
-    // Assumes your turn sprite is a corner that connects Right+Up at 0°.
-    // If your corner art is different, tell me and I’ll adjust this mapping.
     private int RotationForTurn(Dir inDir, Dir outDir)
     {
         if ((inDir == Dir.Right && outDir == Dir.Up) || (inDir == Dir.Up && outDir == Dir.Right)) return 0;
         if ((inDir == Dir.Up && outDir == Dir.Left) || (inDir == Dir.Left && outDir == Dir.Up)) return 90;
         if ((inDir == Dir.Left && outDir == Dir.Down) || (inDir == Dir.Down && outDir == Dir.Left)) return 180;
-        return 270; // Down + Right
+        return 270;
     }
 
     private void Place(Vector3Int cell, TileBase tile, int rotationDegrees)

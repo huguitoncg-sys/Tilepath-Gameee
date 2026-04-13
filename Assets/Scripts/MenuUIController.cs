@@ -57,11 +57,10 @@ public class MenuUIController : MonoBehaviour
         GameManager.Instance.SelectLevel(level);
         SceneManager.LoadScene(gameSceneName);
     }
-    
+
     public void ChooseLevel(LevelData level)
     {
         GameManager.Instance.SelectLevel(level);
         UnityEngine.SceneManagement.SceneManager.LoadScene(gameSceneName);
     }
-
 }

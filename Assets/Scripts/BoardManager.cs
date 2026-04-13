@@ -10,8 +10,6 @@ public class BoardManager : MonoBehaviour
     [Header("Tilemaps")]
     public Tilemap floorTilemap;
     public Tilemap wallsTilemap;
-
-    // draw the snake on its own tilemap (set Order in Layer higher than floor)
     public Tilemap snakeTilemap;
 
     [Header("Board Tiles")]
@@ -51,10 +49,14 @@ public class BoardManager : MonoBehaviour
             GameManager.Instance.OnLevelChanged += HandleLevelChanged;
 
             if (GameManager.Instance.SelectedLevel == null && GameManager.Instance.levelOrder.Count > 0)
+            {
                 GameManager.Instance.SelectLevel(GameManager.Instance.levelOrder[0]);
+            }
 
             if (GameManager.Instance.SelectedLevel != null)
+            {
                 HandleLevelChanged();
+            }
         }
         else
         {
@@ -65,7 +67,9 @@ public class BoardManager : MonoBehaviour
     private void OnDestroy()
     {
         if (GameManager.Instance != null)
+        {
             GameManager.Instance.OnLevelChanged -= HandleLevelChanged;
+        }
     }
 
     private void HandleLevelChanged()
@@ -76,15 +80,20 @@ public class BoardManager : MonoBehaviour
 
     public void BuildLevel()
     {
-        Debug.Log($"BuildLevel: {level.name}  size={level.Width}x{level.Height}  applePrefab={(applePrefab ? applePrefab.name : "NULL")}");
-        if (level == null) { Debug.LogError("No LevelData assigned."); return; }
+        if (level == null)
+        {
+            Debug.LogError("No LevelData assigned.");
+            return;
+        }
 
-        // Clear old tiles
         floorTilemap.ClearAllTiles();
         wallsTilemap.ClearAllTiles();
-        if (snakeTilemap != null) snakeTilemap.ClearAllTiles();
 
-        // Clear old apple (important when switching levels in same scene)
+        if (snakeTilemap != null)
+        {
+            snakeTilemap.ClearAllTiles();
+        }
+
         if (currentApple != null)
         {
             Destroy(currentApple);
@@ -99,12 +108,9 @@ public class BoardManager : MonoBehaviour
 
         openTileCount = 0;
         visitedCount = 0;
-        StartPos = new Vector2Int(0, 0);
-
-        // reset fruit cell each build
+        StartPos = Vector2Int.zero;
         fruitCell = new Vector2Int(-1, -1);
 
-        // level.rows is top->bottom; Tilemap y is bottom->top
         for (int row = 0; row < h; row++)
         {
             string line = level.rows[row];
@@ -123,32 +129,25 @@ public class BoardManager : MonoBehaviour
                 }
                 else
                 {
-                    // open tile ('.' or 'S' or 'F')
                     floorTilemap.SetTile(cell, floorTile);
                     openTileCount++;
 
                     if (c == 'S')
+                    {
                         StartPos = new Vector2Int(x, y);
+                    }
 
                     if (c == 'F')
+                    {
                         fruitCell = new Vector2Int(x, y);
-                        if (c == 'F')
-                        {
-                            fruitCell = new Vector2Int(x, y);
-                            Debug.Log($"FOUND F at cell ({fruitCell.x},{fruitCell.y}) in level {level.name}");
-                            Debug.Log($"Spawning apple? fruitCell={fruitCell} applePrefab={(applePrefab ? "OK" : "NULL")}");
-                        }
+                    }
                 }
             }
         }
 
-        // Initialize snake/path at start
         path.Clear();
-
-        // Count start tile as visited (and draw snake)
         Visit(StartPos);
 
-        // Move player to start position
         GameObject playerObj = GameObject.FindWithTag("Player");
         if (playerObj != null)
         {
@@ -165,7 +164,7 @@ public class BoardManager : MonoBehaviour
     private void SpawnFruitIfPresent()
     {
         if (applePrefab == null) return;
-        if (fruitCell.x < 0) return; // no 'F' in this level
+        if (fruitCell.x < 0) return;
 
         Vector3 spawnPos = CellToWorldCenter(fruitCell);
         currentApple = Instantiate(applePrefab, spawnPos, Quaternion.identity);
@@ -173,7 +172,11 @@ public class BoardManager : MonoBehaviour
 
     public bool InBounds(Vector2Int p)
     {
-        return p.x >= 0 && p.y >= 0 && p.x < blocked.GetLength(0) && p.y < blocked.GetLength(1);
+        return blocked != null &&
+               p.x >= 0 &&
+               p.y >= 0 &&
+               p.x < blocked.GetLength(0) &&
+               p.y < blocked.GetLength(1);
     }
 
     public bool CanStep(Vector2Int p)
@@ -218,9 +221,76 @@ public class BoardManager : MonoBehaviour
         return floorTilemap.GetCellCenterWorld(new Vector3Int(p.x, p.y, 0));
     }
 
-    // -------------------------
-    // Snake drawing logic
-    // -------------------------
+    public Vector2Int GetStartFacingDir()
+    {
+        List<Vector2Int> openDirs = GetOpenDirections(StartPos);
+
+        if (openDirs.Count == 0)
+            return Vector2Int.down;
+
+        if (openDirs.Count == 1)
+            return openDirs[0];
+
+        int width = blocked.GetLength(0);
+        int height = blocked.GetLength(1);
+
+        bool onLeftEdge = StartPos.x == 0;
+        bool onRightEdge = StartPos.x == width - 1;
+        bool onBottomEdge = StartPos.y == 0;
+        bool onTopEdge = StartPos.y == height - 1;
+
+        if (onLeftEdge && openDirs.Contains(Vector2Int.right))
+            return Vector2Int.right;
+
+        if (onRightEdge && openDirs.Contains(Vector2Int.left))
+            return Vector2Int.left;
+
+        if (onTopEdge && openDirs.Contains(Vector2Int.down))
+            return Vector2Int.down;
+
+        if (onBottomEdge && openDirs.Contains(Vector2Int.up))
+            return Vector2Int.up;
+
+        Vector2Int[] interiorPreference =
+        {
+            Vector2Int.down,
+            Vector2Int.right,
+            Vector2Int.left,
+            Vector2Int.up
+        };
+
+        foreach (Vector2Int dir in interiorPreference)
+        {
+            if (openDirs.Contains(dir))
+                return dir;
+        }
+
+        return openDirs[0];
+    }
+
+    private List<Vector2Int> GetOpenDirections(Vector2Int origin)
+    {
+        List<Vector2Int> result = new List<Vector2Int>();
+
+        Vector2Int[] dirs =
+        {
+            Vector2Int.up,
+            Vector2Int.right,
+            Vector2Int.down,
+            Vector2Int.left
+        };
+
+        foreach (Vector2Int dir in dirs)
+        {
+            Vector2Int next = origin + dir;
+            if (InBounds(next) && !blocked[next.x, next.y])
+            {
+                result.Add(dir);
+            }
+        }
+
+        return result;
+    }
 
     private void RedrawSnake()
     {
@@ -232,27 +302,26 @@ public class BoardManager : MonoBehaviour
 
         if (path.Count == 1)
         {
-            Place(path[0], snakeHeadTile, 0);
+            Vector2Int startDir = GetStartFacingDir();
+            Place(path[0], snakeHeadTile, RotationFor(startDir));
             return;
         }
 
-        // Tail
         {
-            var tailPos = path[0];
-            var nextPos = path[1];
-            var dir = DirFromTo(tailPos, nextPos);
-            Place(tailPos, snakeTailTile, RotationFor(dir));
+            Vector3Int tailPos = path[0];
+            Vector3Int nextPos = path[1];
+            Dir tailDir = DirFromTo(tailPos, nextPos);
+            Place(tailPos, snakeTailTile, RotationFor(tailDir));
         }
 
-        // Body
         for (int i = 1; i < path.Count - 1; i++)
         {
-            var prev = path[i - 1];
-            var cur = path[i];
-            var next = path[i + 1];
+            Vector3Int prev = path[i - 1];
+            Vector3Int cur = path[i];
+            Vector3Int next = path[i + 1];
 
-            var inDir = DirFromTo(cur, prev);
-            var outDir = DirFromTo(cur, next);
+            Dir inDir = DirFromTo(cur, prev);
+            Dir outDir = DirFromTo(cur, next);
 
             if (IsStraight(inDir, outDir))
             {
@@ -266,18 +335,18 @@ public class BoardManager : MonoBehaviour
             }
         }
 
-        // Head
         {
-            var headPos = path[path.Count - 1];
-            var prevPos = path[path.Count - 2];
-            var dir = DirFromTo(prevPos, headPos);
-            Place(headPos, snakeHeadTile, RotationFor(dir));
+            Vector3Int headPos = path[path.Count - 1];
+            Vector3Int prevPos = path[path.Count - 2];
+            Dir headDir = DirFromTo(prevPos, headPos);
+            Place(headPos, snakeHeadTile, RotationFor(headDir));
         }
     }
 
     private Dir DirFromTo(Vector3Int a, Vector3Int b)
     {
         Vector3Int d = b - a;
+
         if (d == Vector3Int.up) return Dir.Up;
         if (d == Vector3Int.right) return Dir.Right;
         if (d == Vector3Int.down) return Dir.Down;
@@ -286,8 +355,10 @@ public class BoardManager : MonoBehaviour
 
     private bool IsStraight(Dir a, Dir b)
     {
-        return (a == Dir.Left && b == Dir.Right) || (a == Dir.Right && b == Dir.Left) ||
-               (a == Dir.Up && b == Dir.Down) || (a == Dir.Down && b == Dir.Up);
+        return (a == Dir.Left && b == Dir.Right) ||
+               (a == Dir.Right && b == Dir.Left) ||
+               (a == Dir.Up && b == Dir.Down) ||
+               (a == Dir.Down && b == Dir.Up);
     }
 
     private int RotationFor(Dir d)
@@ -302,6 +373,15 @@ public class BoardManager : MonoBehaviour
         };
     }
 
+    private int RotationFor(Vector2Int dir)
+    {
+        if (dir == Vector2Int.right) return 0;
+        if (dir == Vector2Int.up) return 90;
+        if (dir == Vector2Int.left) return 180;
+        if (dir == Vector2Int.down) return 270;
+        return 0;
+    }
+
     private int RotationForTurn(Dir inDir, Dir outDir)
     {
         if ((inDir == Dir.Right && outDir == Dir.Up) || (inDir == Dir.Up && outDir == Dir.Right)) return 0;
@@ -312,13 +392,13 @@ public class BoardManager : MonoBehaviour
 
     private void Place(Vector3Int cell, TileBase tile, int rotationDegrees)
     {
-        if (tile == null) return;
+        if (tile == null || snakeTilemap == null) return;
 
         snakeTilemap.SetTile(cell, tile);
 
         Matrix4x4 m = Matrix4x4.TRS(
             Vector3.zero,
-            Quaternion.Euler(0, 0, rotationDegrees),
+            Quaternion.Euler(0f, 0f, rotationDegrees),
             Vector3.one
         );
 

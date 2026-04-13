@@ -2031,10 +2031,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SnakeTrailRenderer
   snakeTilemap: {fileID: 2072815593}
-  headTile: {fileID: 11400000, guid: b4a319fbe92bff6498ecf0a003ea36e9, type: 2}
+  headTile: {fileID: 11400000, guid: 44ccd26fb514d994f8115c9ef9e8c5b7, type: 2}
   bodyStraightTile: {fileID: 11400000, guid: 38861deed2956964cb63f2d5e007ed40, type: 2}
   bodyTurnTile: {fileID: 11400000, guid: dc3d8738963cd054ead35b818e0e7caa, type: 2}
   tailTile: {fileID: 11400000, guid: b598230eef09ba644bcaa8cac622c9d8, type: 2}
+  boardManager: {fileID: 1299103142}
 --- !u!1 &1366681093
 GameObject:
   m_ObjectHideFlags: 0
@@ -3230,6 +3231,7 @@ MonoBehaviour:
   bodyStraightTile: {fileID: 11400000, guid: 38861deed2956964cb63f2d5e007ed40, type: 2}
   bodyTurnTile: {fileID: 11400000, guid: dc3d8738963cd054ead35b818e0e7caa, type: 2}
   tailTile: {fileID: 11400000, guid: b598230eef09ba644bcaa8cac622c9d8, type: 2}
+  boardManager: {fileID: 0}
 --- !u!61 &2040413598
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a911d1bdcd7aa5f419bfdc012d1f91f6, type: 3}
+  m_Name: World_7x7
+  m_EditorClassIdentifier: Assembly-CSharp::WorldData
+  worldName: 6x6
+  gridSize: 0
+  levels:
+  - {fileID: 11400000, guid: cddb74d1a5ea63a49beeac125e04bbe1, type: 2}
+  - {fileID: 11400000, guid: 1bc505224a0600e4ab7c1d5df1aa7a7c, type: 2}
+  - {fileID: 11400000, guid: 6f0fb8623c1ede14b9450c45a183d311, type: 2}
+  - {fileID: 11400000, guid: fe6cc140da583624fa76967f7e9e3656, type: 2}
+  - {fileID: 11400000, guid: 4af7d45808f238147a375cff2aa92534, type: 2}
+  - {fileID: 11400000, guid: 0056df9926044914f8089350d8a6a68a, type: 2}

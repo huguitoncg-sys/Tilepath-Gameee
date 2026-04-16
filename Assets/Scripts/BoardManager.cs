@@ -159,6 +159,15 @@ public class BoardManager : MonoBehaviour
         }
 
         SpawnFruitIfPresent();
+
+            BoardCameraFitter cameraFitter = Camera.main != null
+                ? Camera.main.GetComponent<BoardCameraFitter>()
+                : null;
+
+            if (cameraFitter != null)
+            {
+                cameraFitter.FitToBoard();
+            }
     }
 
     private void SpawnFruitIfPresent()

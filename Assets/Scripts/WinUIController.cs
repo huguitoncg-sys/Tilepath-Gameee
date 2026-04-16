@@ -7,14 +7,14 @@ public class WinUIController : MonoBehaviour
     [Header("Assign these in the Inspector")]
     public GameObject winPanel;
     public TMP_Text messageText;
-
-    [TextArea]
-    public string winMessage = "You Win!";
+    [TextArea] public string winMessage = "You Win!";
 
     [Header("Scene Loading")]
     public string mainMenuSceneName = "MainMenu";
 
     private bool isShowing;
+
+    public bool IsShowing => isShowing;
 
     private void Awake()
     {
@@ -24,6 +24,7 @@ public class WinUIController : MonoBehaviour
     public void ShowWin()
     {
         if (isShowing) return;
+
         isShowing = true;
 
         if (messageText != null)
@@ -33,7 +34,6 @@ public class WinUIController : MonoBehaviour
             winPanel.SetActive(true);
 
         Time.timeScale = 0f;
-
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.None;
     }
@@ -44,9 +44,7 @@ public class WinUIController : MonoBehaviour
             winPanel.SetActive(false);
 
         isShowing = false;
-
         Time.timeScale = 1f;
-
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
     }
@@ -58,43 +56,43 @@ public class WinUIController : MonoBehaviour
     }
 
     public void NextLevel()
-{
-    // ✅ Use Hide() so isShowing resets properly
-    Hide();
-
-    if (GameManager.Instance == null)
     {
-        Debug.LogError("No GameManager found.");
-        return;
-    }
+        // Use Hide() so isShowing resets properly
+        Hide();
 
-    // Advance to next ScriptableObject level
-    if (!GameManager.Instance.TryAdvanceToNextLevel())
-    {
-        SceneManager.LoadScene(mainMenuSceneName);
-        return;
-    }
+        if (GameManager.Instance == null)
+        {
+            Debug.LogError("No GameManager found.");
+            return;
+        }
 
-    // Rebuild the SAME gameplay scene with the new LevelData
-    BoardManager bm = FindObjectOfType<BoardManager>();
-    if (bm == null)
-    {
-        Debug.LogError("No BoardManager found.");
-        return;
-    }
+        // Advance to next ScriptableObject level
+        if (!GameManager.Instance.TryAdvanceToNextLevel())
+        {
+            SceneManager.LoadScene(mainMenuSceneName);
+            return;
+        }
 
-    bm.level = GameManager.Instance.SelectedLevel;
-    bm.BuildLevel();
+        // Rebuild the SAME gameplay scene with the new LevelData
+        BoardManager bm = FindObjectOfType<BoardManager>();
+        if (bm == null)
+        {
+            Debug.LogError("No BoardManager found.");
+            return;
+        }
 
-    // ✅ Reset the player’s internal state so movement works again
-    PlayerGridMover player = FindObjectOfType<PlayerGridMover>();
-    if (player != null)
-    {
-        player.ResetForNewLevel(bm);
+        bm.level = GameManager.Instance.SelectedLevel;
+        bm.BuildLevel();
+
+        // Reset the player’s internal state so movement works again
+        PlayerGridMover player = FindObjectOfType<PlayerGridMover>();
+        if (player != null)
+        {
+            player.ResetForNewLevel(bm);
+        }
+        else
+        {
+            Debug.LogWarning("No PlayerGridMover found in scene.");
+        }
     }
-    else
-    {
-        Debug.LogWarning("No PlayerGridMover found in scene.");
-    }
-}
 }

@@ -9,7 +9,7 @@ public class LevelSelectButton : MonoBehaviour
     private LevelData level;
     private MenuUIController menu;
 
-    public void Setup(LevelData level, MenuUIController menu)
+    public void Setup(LevelData level, MenuUIController menu, string displayText)
     {
         this.level = level;
         this.menu = menu;
@@ -18,7 +18,7 @@ public class LevelSelectButton : MonoBehaviour
             label = GetComponentInChildren<TMP_Text>();
 
         if (label != null)
-            label.text = level.name;
+            label.text = displayText;
 
         GetComponent<Button>().onClick.RemoveAllListeners();
         GetComponent<Button>().onClick.AddListener(() => menu.ChooseLevel(this.level));

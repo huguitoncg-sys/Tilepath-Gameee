@@ -26,6 +26,7 @@ public class MenuUIController : MonoBehaviour
     {
         worldPanel.SetActive(true);
         levelPanel.SetActive(false);
+
         ClearLevelButtons();
     }
 
@@ -42,7 +43,9 @@ public class MenuUIController : MonoBehaviour
 
             GameObject btnObj = Instantiate(levelButtonPrefab, levelGridParent);
             LevelSelectButton btn = btnObj.GetComponent<LevelSelectButton>();
-            btn.Setup(level, this);
+
+            string buttonText = $"{i + 1:00}";
+            btn.Setup(level, this, buttonText);
         }
     }
 
@@ -61,6 +64,6 @@ public class MenuUIController : MonoBehaviour
     public void ChooseLevel(LevelData level)
     {
         GameManager.Instance.SelectLevel(level);
-        UnityEngine.SceneManagement.SceneManager.LoadScene(gameSceneName);
+        SceneManager.LoadScene(gameSceneName);
     }
 }

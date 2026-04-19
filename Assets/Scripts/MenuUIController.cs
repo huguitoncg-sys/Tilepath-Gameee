@@ -28,6 +28,7 @@ public class MenuUIController : MonoBehaviour
         levelPanel.SetActive(false);
 
         ClearLevelButtons();
+        RefreshWorldButtons();
     }
 
     public void ShowLevels(WorldData world)
@@ -40,19 +41,31 @@ public class MenuUIController : MonoBehaviour
         for (int i = 0; i < world.levels.Length; i++)
         {
             LevelData level = world.levels[i];
-
             GameObject btnObj = Instantiate(levelButtonPrefab, levelGridParent);
-            LevelSelectButton btn = btnObj.GetComponent<LevelSelectButton>();
 
-            string buttonText = $"{i + 1:00}";
-            btn.Setup(level, this, buttonText);
+            LevelSelectButton btn = btnObj.GetComponent<LevelSelectButton>();
+            string displayText = (i + 1).ToString("D2");
+
+            btn.Setup(level, this, displayText);
         }
     }
 
     private void ClearLevelButtons()
     {
         for (int i = levelGridParent.childCount - 1; i >= 0; i--)
+        {
             Destroy(levelGridParent.GetChild(i).gameObject);
+        }
+    }
+
+    private void RefreshWorldButtons()
+    {
+        WorldSelectButton[] worldButtons = worldPanel.GetComponentsInChildren<WorldSelectButton>(true);
+
+        for (int i = 0; i < worldButtons.Length; i++)
+        {
+            worldButtons[i].RefreshVisuals();
+        }
     }
 
     public void OnLevelChosen(LevelData level)

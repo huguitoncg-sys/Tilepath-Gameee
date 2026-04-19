@@ -13,7 +13,6 @@ public class WinUIController : MonoBehaviour
     public string mainMenuSceneName = "MainMenu";
 
     private bool isShowing;
-
     public bool IsShowing => isShowing;
 
     private void Awake()
@@ -24,6 +23,12 @@ public class WinUIController : MonoBehaviour
     public void ShowWin()
     {
         if (isShowing) return;
+
+        // Save completion for the currently selected level.
+        if (GameManager.Instance != null && GameManager.Instance.SelectedLevel != null)
+        {
+            GameManager.Instance.MarkLevelCompleted(GameManager.Instance.SelectedLevel);
+        }
 
         isShowing = true;
 
@@ -57,7 +62,6 @@ public class WinUIController : MonoBehaviour
 
     public void NextLevel()
     {
-        // Use Hide() so isShowing resets properly
         Hide();
 
         if (GameManager.Instance == null)
@@ -66,33 +70,12 @@ public class WinUIController : MonoBehaviour
             return;
         }
 
-        // Advance to next ScriptableObject level
         if (!GameManager.Instance.TryAdvanceToNextLevel())
         {
             SceneManager.LoadScene(mainMenuSceneName);
             return;
         }
 
-        // Rebuild the SAME gameplay scene with the new LevelData
-        BoardManager bm = FindObjectOfType<BoardManager>();
-        if (bm == null)
-        {
-            Debug.LogError("No BoardManager found.");
-            return;
-        }
-
-        bm.level = GameManager.Instance.SelectedLevel;
-        bm.BuildLevel();
-
-        // Reset the player’s internal state so movement works again
-        PlayerGridMover player = FindObjectOfType<PlayerGridMover>();
-        if (player != null)
-        {
-            player.ResetForNewLevel(bm);
-        }
-        else
-        {
-            Debug.LogWarning("No PlayerGridMover found in scene.");
-        }
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

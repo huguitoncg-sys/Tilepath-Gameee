@@ -285,6 +285,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelSelectButton
   label: {fileID: 0}
+  targetImage: {fileID: 0}
+  button: {fileID: 0}
+  defaultSprite: {fileID: -855298285791758126, guid: 78b5f86f0f813f94f9dfae0f2d73a8aa, type: 3}
+  completedSprite: {fileID: 4448465032105989386, guid: cda37d859a16a5d4db2e6d9715b00db1, type: 3}
 --- !u!114 &1692775394219181179
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -298,6 +302,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelSelectButton
   label: {fileID: 0}
+  targetImage: {fileID: 0}
+  button: {fileID: 0}
+  defaultSprite: {fileID: 0}
+  completedSprite: {fileID: 0}
 --- !u!114 &2582464348550529232
 MonoBehaviour:
   m_ObjectHideFlags: 0

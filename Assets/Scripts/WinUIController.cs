@@ -9,6 +9,12 @@ public class WinUIController : MonoBehaviour
     public TMP_Text messageText;
     [TextArea] public string winMessage = "You Win!";
 
+    [Header("Win Sound")]
+    public AudioClip winSfx;
+    [Range(0f, 1f)] public float winSfxVolume = 1f;
+
+    private AudioSource audioSource;
+
     [Header("Scene Loading")]
     public string mainMenuSceneName = "MainMenu";
 
@@ -17,6 +23,17 @@ public class WinUIController : MonoBehaviour
 
     private void Awake()
     {
+        audioSource = GetComponent<AudioSource>();
+
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+
+        audioSource.playOnAwake = false;
+        audioSource.loop = false;
+        audioSource.ignoreListenerPause = true;
+
         Hide();
     }
 
@@ -37,6 +54,11 @@ public class WinUIController : MonoBehaviour
 
         if (winPanel != null)
             winPanel.SetActive(true);
+
+        if (winSfx != null && PersistentSFXPlayer.Instance != null)
+{
+    PersistentSFXPlayer.Instance.PlaySound(winSfx, winSfxVolume);
+}
 
         Time.timeScale = 0f;
         Cursor.visible = true;

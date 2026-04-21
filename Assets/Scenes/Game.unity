@@ -2825,7 +2825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 510b54f001af6fa4b87a217cb655ef9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BoardManager
-  level: {fileID: 11400000, guid: 42084f7a83c11f74497223bdfab40018, type: 2}
+  level: {fileID: 11400000, guid: 905461a7c4bd0634ea26ba58942b61e9, type: 2}
   floorTilemap: {fileID: 1016914271}
   wallsTilemap: {fileID: 1392332679}
   snakeTilemap: {fileID: 2072815593}
@@ -3187,7 +3187,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1402470616
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -16,15 +16,15 @@ public class PauseMenuController : MonoBehaviour
     private bool isPaused = false;
 
     private void Start()
-    {
-        if (pausePanel != null)
-            pausePanel.SetActive(false);
+{
+    if (pausePanel != null)
+        pausePanel.SetActive(false);
 
-        ResumeGame();
+    isPaused = false;
 
-        if (winUIController == null)
-            winUIController = FindObjectOfType<WinUIController>();
-    }
+    if (!TutorialPopupSequence.IsTutorialOpen)
+        Time.timeScale = 1f;
+}
 
     private void Update()
     {
@@ -66,16 +66,20 @@ public class PauseMenuController : MonoBehaviour
     }
 
     public void ResumeGame()
+{
+    isPaused = false;
+
+    if (pausePanel != null)
+        pausePanel.SetActive(false);
+
+    Time.timeScale = 1f;
+
+    if (!TutorialPopupSequence.IsTutorialOpen)
     {
-        isPaused = false;
-
-        if (pausePanel != null)
-            pausePanel.SetActive(false);
-
-        Time.timeScale = 1f;
-        Cursor.visible = false;
-        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
     }
+}
 
     public void GoToMainMenu()
     {

@@ -47,41 +47,42 @@ public class PlayerGridMover : MonoBehaviour
     }
 
     private void Update()
+{
+    if (board == null) return;
+
+    if (TutorialPopupSequence.IsTutorialOpen) return;
+
+    // Restart works anytime
+    if (Input.GetKeyDown(restartKey))
     {
-        if (board == null) return;
-
-        // Restart works anytime
-        if (Input.GetKeyDown(restartKey))
-        {
-            RestartLevel();
-            return;
-        }
-
-        // Undo works anytime
-        if (Input.GetKeyDown(undoKey))
-        {
-            Undo();
-            return;
-        }
-
-        // Stop movement after win
-        if (hasWon)
-            return;
-
-        Vector2Int dir = Vector2Int.zero;
-
-        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
-            dir = Vector2Int.up;
-        else if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
-            dir = Vector2Int.down;
-        else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
-            dir = Vector2Int.left;
-        else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
-            dir = Vector2Int.right;
-
-        if (dir != Vector2Int.zero)
-            TryMove(dir);
+        RestartLevel();
+        return;
     }
+
+    // Undo works anytime
+    if (Input.GetKeyDown(undoKey))
+    {
+        Undo();
+        return;
+    }
+
+    // Stop movement after win
+    if (hasWon) return;
+
+    Vector2Int dir = Vector2Int.zero;
+
+    if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow))
+        dir = Vector2Int.up;
+    else if (Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
+        dir = Vector2Int.down;
+    else if (Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.LeftArrow))
+        dir = Vector2Int.left;
+    else if (Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.RightArrow))
+        dir = Vector2Int.right;
+
+    if (dir != Vector2Int.zero)
+        TryMove(dir);
+}
 
     private void TryMove(Vector2Int dir)
     {

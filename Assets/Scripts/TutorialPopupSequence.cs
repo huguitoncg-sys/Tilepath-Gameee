@@ -3,6 +3,9 @@ using UnityEngine.UI;
 
 public class TutorialPopupSequence : MonoBehaviour
 {
+    public static bool IsTutorialOpen { get; private set; }
+    private static bool hasShownThisSession = false;
+
     [Header("Popup Canvases")]
     [SerializeField] private GameObject howToPlayCanvas;
     [SerializeField] private GameObject controlsCanvas;
@@ -11,18 +14,10 @@ public class TutorialPopupSequence : MonoBehaviour
     [SerializeField] private Button howToPlayGotItButton;
     [SerializeField] private Button controlsGotItButton;
 
-    [Header("Settings")]
-    [SerializeField] private bool pauseGameWhileOpen = true;
-
-    private static bool hasShownTutorialThisSession = false;
-
-    private float previousTimeScale = 1f;
-
-    private bool previousCursorVisible;
-    private CursorLockMode previousCursorLockState;
-
     private void Awake()
     {
+        IsTutorialOpen = false;
+
         if (howToPlayCanvas != null)
             howToPlayCanvas.SetActive(false);
 
@@ -32,7 +27,7 @@ public class TutorialPopupSequence : MonoBehaviour
 
     private void Start()
     {
-        if (hasShownTutorialThisSession)
+        if (hasShownThisSession)
         {
             HideAllPopups();
             return;
@@ -47,15 +42,26 @@ public class TutorialPopupSequence : MonoBehaviour
         ShowHowToPlayPopup();
     }
 
+    private void LateUpdate()
+    {
+        // This is the important fix.
+        // LateUpdate runs after most Update logic, so it overrides anything else
+        // that tries to hide or lock the cursor.
+        if (IsTutorialOpen)
+        {
+            Time.timeScale = 0f;
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+        }
+    }
+
     private void ShowHowToPlayPopup()
     {
-        if (pauseGameWhileOpen)
-        {
-            previousTimeScale = Time.timeScale;
-            Time.timeScale = 0f;
-        }
+        IsTutorialOpen = true;
 
-        UnlockMouse();
+        Time.timeScale = 0f;
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
 
         if (howToPlayCanvas != null)
             howToPlayCanvas.SetActive(true);
@@ -66,7 +72,11 @@ public class TutorialPopupSequence : MonoBehaviour
 
     private void ShowControlsPopup()
     {
-        UnlockMouse();
+        IsTutorialOpen = true;
+
+        Time.timeScale = 0f;
+        Cursor.visible = true;
+        Cursor.lockState = CursorLockMode.None;
 
         if (howToPlayCanvas != null)
             howToPlayCanvas.SetActive(false);
@@ -77,29 +87,17 @@ public class TutorialPopupSequence : MonoBehaviour
 
     private void FinishTutorial()
     {
-        hasShownTutorialThisSession = true;
+        hasShownThisSession = true;
+        IsTutorialOpen = false;
 
         HideAllPopups();
 
-        if (pauseGameWhileOpen)
-            Time.timeScale = previousTimeScale <= 0f ? 1f : previousTimeScale;
+        Time.timeScale = 1f;
 
-        RestoreMouse();
-    }
-
-    private void UnlockMouse()
-    {
-        previousCursorVisible = Cursor.visible;
-        previousCursorLockState = Cursor.lockState;
-
+        // Keep the mouse visible after the tutorial.
+        // This is better for your game because you use UI buttons often.
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.None;
-    }
-
-    private void RestoreMouse()
-    {
-        Cursor.visible = previousCursorVisible;
-        Cursor.lockState = previousCursorLockState;
     }
 
     private void HideAllPopups()
